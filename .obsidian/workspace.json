@@ -99,14 +99,14 @@
             "id": "8392a7af9acacc3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Aprendizaje/Git/Git - Obsidian Guía.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Git - Obsidian Guía"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -281,11 +281,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9da8cc6e03697bd",
+  "active": "8392a7af9acacc3d",
   "lastOpenFiles": [
+    "Aprendizaje/Git/Git - Obsidian Guía.md",
     "imagenes/Pasted image 20251127133452.png",
     "Aprendizaje/Git/Git.md",
-    "Aprendizaje/Git/Git - Obsidian Guía.md",
     "IMPUTACION ERP.md",
     "ToDo.md",
     "Tabla Archivos.base",
@@ -319,7 +319,6 @@
     "Aprendizaje/Traducciones/Traducciones.md",
     "Ejemplo Report.al DonBosco.md",
     "imagenes/Pasted image 20251118134740.png",
-    "imagenes/Pasted image 20251118122151.png",
     "Aprendizaje/Restart/Shell Business Central Administration.md",
     "Ejemplos codigo reports.md",
     "Aprendizaje/Ejemplos archivos/PageExt",
