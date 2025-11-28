@@ -14,5 +14,8 @@
 	- Descanso 0.25h
 	- Comprensión de uso de GIT 1.75h
 	- Estudio aplicación PowerToys 1h
-	- CH25-26 2h
-	- Mudanza 1h
+	- CH25-26 3h
+
+- 01/11/2025
+	- Descanso 0.25h
+	- 
