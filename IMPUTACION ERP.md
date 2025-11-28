@@ -12,4 +12,4 @@
 	- Creación e implementación de repositorio git desde Obsidian 2h
 - 28/11/2025
 	- Descanso 0.25h
-	- 
+	- Comprensión de uso de GIT 2h
