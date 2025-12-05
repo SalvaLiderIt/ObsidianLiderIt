@@ -5,5 +5,6 @@ Tarea HA012
 - 
 
 
+tengo acceso al repositorio de Alquisur pero no tengo ninguna tarea asignada de ningún proyecto
 
 
