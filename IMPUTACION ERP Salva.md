@@ -34,5 +34,8 @@
 	- Alquisur acceso git creación archivos base 0.5h
 - 09/11/2025
 	- Descanso 0.25h
-	- 
+	- Conexión nuevas instalaciones Sevilla 0.75h
+	- **CH - A -007** - AgregarCampoCod: 1.5h
+	- CH Campo ID Report Tooltip 0.5h
+	- ALQUISUR Campo Contacto albaranes 3h
 	
