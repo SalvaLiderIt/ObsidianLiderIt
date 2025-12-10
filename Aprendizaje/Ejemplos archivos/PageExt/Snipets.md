@@ -35,7 +35,6 @@ tableextension 50100 "Comp. Bank Account - Customer" extends Customer
 pageextension 50100 "CompBankAccountCustomerCard" extends "Customer Card"
 
 {
-
     layout
 
     {

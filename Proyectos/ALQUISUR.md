@@ -25,3 +25,15 @@ He probado y en entorno pruebas no se actualiza el campo que sí que se actualiz
 
 ¿Confirma que desea cambiar Fact. a-Nº contacto?
 ¿Confirma que desea cambiar Venta a-Nº contacto?
+
+
+PV400019 Albanebrix
+
+  
+Do you want to change Sell-to Contact No.?
+
+==Mensaje a claudia==:
+Claudia muy buenas, llevo toda la mañana intentando localizar el código que tienen subido a producción pero no lo han subido a ningún lado. No se quien hizo este desarrollo, pero te puedo confirmar al 100% que tienen el código correspondiente a estos desarrollos en uno de sus PC, publicaron con esa información y por eso se ve en producción, pero no podemos hacer las pruebas con el campo Contacto con respecto a los informes, porque no tengo acceso a los códigos. Yo lo voy a dejar subido a GitHub (nube de programacion de lider), y te lo dejo publicado en Pruebas. Hasta que no venga el programador que hizo el desarrollo no se pueden unificar ambas cosas porque repito, está en su ordenador y no tenemos acceso. Para que cuando se retome esta tarea no sea tan tedioso, te dejo anotado por aquí la Rama de Github (esto solo le sirve al programador que lo retome), donde sí que está hecha la tarea pero hace falta hacer un "merge" a la rama principal combinándola con el código del desarrollo al que no tenemos acceso ahora.
+La rama que tiene este cambio con respecto al report se llama "ReportContactoAlbaranes".
+
+No se ha subido la tarea a rama main, está en la subrama. Que está actualizada según origin/desarrollo 
