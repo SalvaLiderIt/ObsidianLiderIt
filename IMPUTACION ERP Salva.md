@@ -38,4 +38,9 @@
 	- **CH - A -007** - AgregarCampoCod: 1.5h
 	- CH Campo ID Report Tooltip 0.5h
 	- ALQUISUR Campo Contacto albaranes 3h
+- 10/11/2025
+	- Descanso 0.25h
+	- ALQUISUR combinación ramas Pruebas y Producción 0.75h
+	- Estudio de herramientas de teams para productividad 1h
+	- 
 	
