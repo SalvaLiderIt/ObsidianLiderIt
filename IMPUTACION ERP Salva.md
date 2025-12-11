@@ -46,5 +46,9 @@
 	- CH-029 1h
 - 11/11/2025
 	- Descanso 0.25h
+	- CH-A028-A029 4.75h
+	- CH Agregar funcionalidad de abrir Pedido Venta desde Albaranes venta 1h
+- 12/12/2025
+	- Descanso 0.25h
 	- 
 	

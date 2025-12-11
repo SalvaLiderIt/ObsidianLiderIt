@@ -5,6 +5,9 @@ Tarea HA012
 - 
 
 
-estoy sin tareas asignadas
+
+
+CH-A-028 CH-A-029
+Falta por publicar en Desarrollo para comprobar cambios
 
 

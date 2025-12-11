@@ -26,6 +26,8 @@ Cuando marco en un pedido compra el check "no conformidad" se abre la venta para
 Agregar el campo del COD debajo de la descripción
 
 
-Campo id Report
- Poner en el tooltip del campo "id report autorización compra" de la página Contact Card (5050, ListPlus) con la descripción "Rellenar con 50000 si es transgourmet ó 50001 si es desarrollo de marcas.
+CH-A-028 CH-A-029
+Falta por publicar en Desarrollo para comprobar cambios
 
+![[Pasted image 20251211092628.png]]
+![[Pasted image 20251211100901.png]] 
