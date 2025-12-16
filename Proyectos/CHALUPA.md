@@ -54,4 +54,6 @@ Solucionado e incorporado a desarrollo
 **CH-A-036.Factura**
 
 Hist fact venta
-AV400643
+
+
+CH - 025 - 025

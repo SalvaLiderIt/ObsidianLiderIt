@@ -59,5 +59,7 @@
 	- CH-A-036.Factura 2h
 - 16/12/2025
 	- Descanso 0.25h
-	- 
+	- Aprender a configurar máquina virtual para publicar en local 2h
+	- CH-25-25 1h
+	- Entorno de CDX 2.75h
 	
