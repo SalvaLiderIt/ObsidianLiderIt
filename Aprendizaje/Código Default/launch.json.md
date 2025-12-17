@@ -169,3 +169,49 @@ launch.json chalupa
 
 }
 ```
+
+LAUNCH CHALUPA CDX
+
+```json
+{
+
+    "version": "0.2.0",
+
+    "configurations": [
+
+        {
+            "name": "CDX TenantSalva",
+            "type": "al",
+            "request": "launch",
+            //"environmentType": "Sandbox",
+            "server": "https://businesscentral.dynamics.com",
+            "serverInstance": "sandbox",
+            "tenant": "CRMbc727119.onmicrosoft.com",
+            "authentication": "AAD",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "schemaUpdateMode": "Recreate"
+        },
+
+        /* {
+            "name": "Desarrollo",
+            "type": "al",
+            "request": "launch",
+            "environmentName": "Desarrollo",
+            "startupObjectId": 27,
+            "breakOnError": "All",
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "b4be8f5e-c104-4fa9-a40f-f8256b71056d",
+            "enableLongRunningSqlStatements": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            //"schemaUpdateMode": "ForceSync"
+        }, */
+
+    ]
+
+}
+```

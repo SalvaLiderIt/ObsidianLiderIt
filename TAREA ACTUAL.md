@@ -6,7 +6,7 @@ Tarea HA012
 
 
 
-CDX podemos tener hasta 4 entornos. 
+mirar como puedo replicar el entorno de chalupa por ejemplo a mi tentant que se abre desde chrome en la máquina física (navegador oculto)
 
 
 

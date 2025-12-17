@@ -22,9 +22,18 @@ Notas Salva
 - A día de 15 de diciembre (a partir de este dia) me faltan 11'2 días de trabajo reales, un total de 67h. Quitando el día 26 de diciembre que no vengo según el FP, justo terminaría el último día esas 0'2 correspondientes, que es 1'20 hora.  El día 05 de Enero ÚLTIMO DIA PRÁCTICAS
 
 
-CAMBIO DE MÁQUINA VIRTUAL A FÍSICA
+Tenant mío
+CRMbc727119.onmicrosoft.com
 
-- Volver a Clonar todos los repositorios de Lider
-- Configurar igual Virtual Studio Code
-- Poner Favoritos navegador BC distintos entornos
-- 
+
+TC-Core
+https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/UTY?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27bc804f5a-e849-4369-aaa7-bb44ce5ea2af%27&signInRedirected=1
+
+TC-File
+https://businesscentral.dynamics.com/[TENANTID]/[NOMBRE_ENTORNO]?aid= FIN&page=2503&filter=%27ID%27%20IS%20%2756db1649-b574-40a6-8288-079e4628bfc7%27&signInRedirected=1
+
+TC-FTP
+https://businesscentral.dynamics.com/[TENANTID]/[NOMBRE_ENTORNO]?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27fb9f1c25-c1a1-4524-859a-26157abd2e58%27&signInRedirected=1
+
+
+

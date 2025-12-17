@@ -62,4 +62,11 @@
 	- Aprender a configurar máquina virtual para publicar en local 2h
 	- CH-25-25 1h
 	- Entorno de CDX 2.75h
+- 17/12/2025
+	- Descanso 0.25h
+	- Migración de máquina virtual a máquina física 2h
+	- Migración de Nube a CDX, importar dependencias 3.75h
+- 18/12/2025
+	- Descanso 0.25h.
+	- 
 	
