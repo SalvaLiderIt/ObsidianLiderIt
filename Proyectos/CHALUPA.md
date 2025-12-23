@@ -31,8 +31,6 @@ Son Pedidos de Compra
 
 
 
-![[Pasted image 20251211100901.png]] 
-![[Pasted image 20251212081827.png]]
 
 
 ==**CH-A-035.Pedido venta-Albarán venta (kg/merma)**==

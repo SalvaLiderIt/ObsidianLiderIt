@@ -70,4 +70,21 @@
 	- Descanso 0.25h.
 	- Configuración CDX dependencias Chalupa 3.75h 
 	- CH-A - 039 2h
+- 19/12/2025
+	- Descanso 0.25h
+	- Creación de nuevo Sandbox para configurar CDX 2.75h
+	- Lectura Directrices de desarrollo AL Lider 2h
+	- Lectura IA Copylot 1h
+- 22/12/2025
+	- Descanso 0.25h
+	- Configuración de Copylot en navegador y PC, maximizando sus usos 1.75h
+	- HA021 4h
+- 23/12/2025
+	- Descanso 0.25
+	- HA021 3.75h
+	- HA012 1h
+	- Merge Ramas Desarrollo
+- 24/12/2025
+	- Descanso 0.25h
+	- 
 	

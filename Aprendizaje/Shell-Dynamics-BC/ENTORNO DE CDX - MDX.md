@@ -1,4 +1,4 @@
-CRMbc727119.
+Mi tenant del CDX  --> CRMbc727119
 
 Tutorial Lider --> 
 http://sdesgh01:8080/desarrollo/Entornos/EntornoCDX/?h=cdx 
@@ -189,6 +189,11 @@ app.json
 
 Importante:
 **DEPENDENCIAS** de Chalupa, apps descarga de la tienda LINKs (Cambiar TENANTID y NOMBRE_ENTORNO por el correspondiente), el primer enlace tiene a modo de ejemplo mi tenant y el entorno "UTY".
+
+CRMbc727119.onmicrosoft.com 
+
+https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/DesarrolloVS?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27fb9f1c25-c1a1-4524-859a-26157abd2e58%27&signInRedirected=1
+
 
 TC-Core
 https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/UTY?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27bc804f5a-e849-4369-aaa7-bb44ce5ea2af%27&signInRedirected=1

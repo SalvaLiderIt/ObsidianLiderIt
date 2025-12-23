@@ -9,4 +9,19 @@
 - Documentación Lider [Documentación LiderIT](http://sdesgh01:8080/) 
 - [[Conexión vpn desde fuera oficina a red interna]] poner VPN Lider
 - Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez
-- 
+
+
+### Buenas Prácticas Lider
+- Namespaces vamos a utilizar dos tipos de espacios de nombres según sean para extensiones "genéricas" o para las de los clientes:
+	- Genéricas: LiderIT.NombreExtensionGenerica.NombreModulo
+	- Clientes: LiderIT.NombreCliente.NombreModulo
+	- La nomenclatura para usar en código y declarar un namespace es simplemente en una línea nueva 
+	- ```al
+	  namespace MyNamespace;
+	  ```
+- Usar #region y #endregion con el nombre de tarea, por ejemplo:  #region ch012 
+
+
+
+
+

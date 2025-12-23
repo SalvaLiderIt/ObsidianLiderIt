@@ -6,7 +6,5 @@ Tarea HA012
 
 
 
-mirar como puedo replicar el entorno de chalupa por ejemplo a mi tentant que se abre desde chrome en la máquina física (navegador oculto)
-
 
 
