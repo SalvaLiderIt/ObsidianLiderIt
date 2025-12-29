@@ -83,8 +83,12 @@
 	- Descanso 0.25
 	- HA021 3.75h
 	- HA012 1h
-	- Merge Ramas Desarrollo
+	- Merge Ramas Desarrollo 1h
 - 24/12/2025
+	- Descanso 0.25h
+	- Merge ramas desarrollo Arruzafa y limpieza de código 1.75h
+	- Desarrollo favoritos para agilizar trabajo 4h
+- 29/12/2025
 	- Descanso 0.25h
 	- 
 	
