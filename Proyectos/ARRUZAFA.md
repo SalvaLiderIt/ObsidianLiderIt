@@ -7,6 +7,11 @@ Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.co
 
 
 
+### HA022
+Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.PageExt y TransferLinerLDR.TableExt.al
+
+Para comprobar el desarrollo es en la página Pedidos de Transferencia (Transfer Orders), tabla Transfer Header. --> Crear un n uevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
+
 ### HA012
 - Falta por agregar el campo retencion 19% y meterlo dentro del procedimiento que calcula la sumatoria. (tiene que avisar MariPaz)
 
