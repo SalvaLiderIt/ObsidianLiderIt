@@ -12,6 +12,9 @@ Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.Pag
 
 Para comprobar el desarrollo es en la página Pedidos de Transferencia (Transfer Orders), tabla Transfer Header. --> Crear un n uevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
 
+Agregar tooltip al campo Cantidad de la ventana Escanear Productos. "Especifica la Cantidad de producto con el mismo lote, no es lo mismo que la Cantidad a nivel de línea"
+Seguir con traducción y quitar warnings
+
 ### HA012
 - Falta por agregar el campo retencion 19% y meterlo dentro del procedimiento que calcula la sumatoria. (tiene que avisar MariPaz)
 
