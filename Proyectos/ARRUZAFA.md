@@ -6,14 +6,28 @@ Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.co
 
 
 
+### HA019
+
+Importado desarrollo de Global Rosetta, archivos creados: 
+
+PurchaseLineLDR.TableExt.al 
+
+PurchaseOrderSubformLDR.PageExt.al 
+
+ScanProductLDR.Page.al (archivo compartido con desarrollo HA022) 
+
+	Creada rama git HA019-MatrixRecepcionAlmacen. 
+
+	Limpiado código, eliminado warnings, traducido todo a Inglés y generado archivo traducciones a Español. 
+
+Commit “Task Finished HA019 added regions” 
 
 ### HA022
 Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.PageExt y TransferLinerLDR.TableExt.al
 
-Para comprobar el desarrollo es en la página Pedidos de Transferencia (Transfer Orders), tabla Transfer Header. --> Crear un n uevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
+Para comprobar el desarrollo es en la página **Pedidos de Transferencia** (Transfer Orders), tabla Transfer Header. --> Crear un n uevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
 
-Agregar tooltip al campo Cantidad de la ventana Escanear Productos. "Especifica la Cantidad de producto con el mismo lote, no es lo mismo que la Cantidad a nivel de línea"
-Seguir con traducción y quitar warnings
+Tarea finalizada, Publicada en DesarrolloVS, mergeada rama a Desarrollo. La rama en la que se ha realizado se llama HA022-LectorQRTransferOrder, el último commit se llama "All warnings fixed all translation...task finished HA022"
 
 ### HA012
 - Falta por agregar el campo retencion 19% y meterlo dentro del procedimiento que calcula la sumatoria. (tiene que avisar MariPaz)
