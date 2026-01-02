@@ -4,7 +4,14 @@ Leer documentación --> [coc/.AL-Go at main · clinica-oftalmologica-cordoba-356
 
 Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/DesarrolloArruzafa?company=CRONUS%20ES&dc=0 
 
-
+### HA009
+- Rama Git HA009-MatrixDiarioProducto
+- Archivos usados para este desarrollo: 
+	- ItemJournalLineLDR.TableExt.al
+	- ScanProductItemJournalLDR.Page.al
+	- ItemJournalLDR.Pageext.al
+	- ItemJournalScanDTOLDR.table.al
+	- ItemJournalScan_LDR.Codeunit.al
 
 ### HA019
 
