@@ -7,6 +7,7 @@ Todo es en la página de Diario de productos, de momento no se lee bien la infor
 Generar archivo de traducciones a español con XLIFF Syncronize to single file..
 
 
+Día 05/01/2026, horas imputadas 0
 ### CDX DesarrolloArruzafa 
 
 tabla Sales Header
