@@ -1,11 +1,19 @@
 
 
-HA009 
-Seguir dándole vueltas al funcionamiento del archivo ItemJournalScanLDR.Codeunit.al, como referencia los otros desarrollos que funcionan bien con respecto al datamatrix es lo que está en el archivo ScanProductlDR.Page.al.
-Todo es en la página de Diario de productos, de momento no se lee bien la información en los campos, seguir diciéndole a la IA que no se comporta como debe
 
-Generar archivo de traducciones a español con XLIFF Syncronize to single file..
 
+
+### HA001 
+Conciliacion banco pag Bank acc. reconciliation, botón Importa Norma 43, esto desarrollo chalupa HA001
+Conciliaciones de cuenta bancaria 
+
+![[Pasted image 20260108170622.png]]
+Los archivos a importar de chalupa son:
+- BankAccReconciliationLDR.PageExt.al
+- LDRCargaConciliacionNorma43Lsc.XmlPort.al
+
+1.25
+4.75
 
 Día 05/01/2026, horas imputadas 0
 ### CDX DesarrolloArruzafa 

@@ -4,6 +4,19 @@ Leer documentación --> [coc/.AL-Go at main · clinica-oftalmologica-cordoba-356
 
 Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/DesarrolloArruzafa?company=CRONUS%20ES&dc=0 
 
+### HA005
+- Pag Importar Nóminas
+- Rama de Git HA005-ImportacionExcelNomina
+- Publicado en Desarrollo VS
+- Falta por mergear a Desarrollo, pendiente de pruebas consultor, seguramente hay que modificar cosas, faltan configuraciones por agregar
+- Archivos Creados/modificados
+	- PayrollImportSetupArruzafaLDR.Table.al
+	- PayrollImportLineArruzafa.Table.al
+	- PayrollImportHistoryArruzafa.Table.al
+	- PayrollImportStatus.Enum.al
+	- PayrollImportMgtArruzafaLDR.Codeunit.al
+	- PayrollImportArruzafaLDR.Page.al
+	- PayrollImportHistoryArruzafa.Page.al
 ### HA009
 - Rama Git HA009-MatrixDiarioProducto
 - Archivos usados para este desarrollo: 
@@ -12,6 +25,10 @@ Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.co
 	- ItemJournalLDR.Pageext.al
 	- ItemJournalScanDTOLDR.table.al
 	- ItemJournalScan_LDR.Codeunit.al
+- Commit HA009 Task Finished
+- Mergeado a rama Desarrollo
+- Publicado en Desarrollo VS
+- Pendiente de Consultor
 
 ### HA019
 

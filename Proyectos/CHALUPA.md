@@ -34,7 +34,7 @@ Son Pedidos de Compra
 
 
 
-==**CH-A-035.Pedido venta-Albarán venta (kg/merma)**==
+### CH-A-035.Pedido venta-Albarán venta (kg/merma)**==
 
 - Tanto en el pedido de venta como en el albarán de venta, necesitamos crear un campo que sea "kg/merma", actualmente existe uno que es "% descuento merma", pero se necesita registrar esa merma tanto en % como en kg. El cálculo de este nuevo campo sigue la misma lógica que el otro pero sin aplicarle el porcentaje. Además, una vez creado, también se requiere sacar ambos campos ("kg/merma" y "% descuento merma") en la página "Posted Sales Shipment Lines (525, List)" y que sean filtrables.
 - 
@@ -64,7 +64,3 @@ El código a modificar es en el archivo SalesLineLDR.TableExt.al (CantidadRecibi
 No funciona el campo Importe según cantidad recibida, de momento en la línea del pedido de venta no sale actualizado el valor si cantidad recibida tiene algo distinto de 0 no lo está usando, sigue usando cantidad.. Ejemplo que funciona las dos siguientes capturas.
 
 43000184 ∙ DISTAC, S. A.
-
-![[Pasted image 20251218130115.png]]
-
-![[Pasted image 20251218130146.png]]

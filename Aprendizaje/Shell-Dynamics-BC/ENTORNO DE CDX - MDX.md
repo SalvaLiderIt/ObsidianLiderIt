@@ -209,3 +209,6 @@ https://businesscentral.dynamics.com/[TENANTID]/[NOMBRE_ENTORNO]?aid= FIN&page=2
 
 ==Ya tengo prácticamente todo lo del CDX operativo, falta cuadrar las versiones de las extensiones, instalando los .app directamente en el cliente web, una vez tenga eso ya podré usarlo. Esto de Chalupa==
 
+
+### CDX Dependencias* Arruzafa
+Link Instalación desde la microsoft store de extension lider SII. Recordar modificar la URL con respecto a las URL anteriores con el tenant y el entorno para poder instalar https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html
