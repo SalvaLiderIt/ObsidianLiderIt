@@ -10,7 +10,7 @@
     {
       "id": "uaBBoW0PLqino4pG1xEn8",
       "name": "RECURRENTE",
-      "value": "#d400ff"
+      "value": "#ff57d2"
     },
     {
       "id": "3kWM8Qh_rEpSzNgtVQXOY",
@@ -59,7 +59,7 @@
     },
     {
       "path": "Lider - Config/LiderIT Anotaciones.md",
-      "color": "OcRI4pHOxx3mcG85PA9Mg"
+      "color": "M8rjIg4WpFnNxRgZVn8VO"
     },
     {
       "path": "Personal/Salva.md",
@@ -71,11 +71,7 @@
     },
     {
       "path": "Personal/Ideas Salva funciones extra BC.md",
-      "color": "7ISbDnLNlArjtJt8qFEcb"
-    },
-    {
-      "path": "Personal/Secret.md",
-      "color": "OcRI4pHOxx3mcG85PA9Mg"
+      "color": "7uZJQFsIsBKotSG04VoCL"
     },
     {
       "path": "EMPTY.md",
@@ -84,6 +80,18 @@
     {
       "path": "Aprendizaje Python Odoo/Curso Python Dia 1.md",
       "color": "0m5yguCUDRJokjPGEy1qj"
+    },
+    {
+      "path": "Lider - Config/Conexión vpn desde fuera oficina a red interna.md",
+      "color": "M8rjIg4WpFnNxRgZVn8VO"
+    },
+    {
+      "path": "Consultoria/Conceptos Contabilidad para BC.md",
+      "color": "uaBBoW0PLqino4pG1xEn8"
+    },
+    {
+      "path": "Consultoria/Nomenclatura ESP - ENG.md",
+      "color": "uaBBoW0PLqino4pG1xEn8"
     }
   ]
 }
