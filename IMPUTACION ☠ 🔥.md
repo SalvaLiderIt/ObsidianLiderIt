@@ -131,14 +131,15 @@
 - 13/01/2026
 	- Descanso 0.25h
 	- HA010: Formato impreso personalizado Factura de venta correcciones 2h
-	- HA014: Formato impreso personalizado Factura de venta proforma correcciones y desarrollo paciente solucionado 4h (de momento he puesto 2 hasta que amplíen)❗
-	- Sin actividad 2'25h? ❌🔥☢
+	- HA014: Formato impreso personalizado Factura de venta proforma correcciones y desarrollo paciente solucionado 2h
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 4h 
 - 14/01/2026
 	- Descanso 0.25h
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 
 
 
 
-### Días no imputados ❌🔥☢
+### Días no imputados ❌🔥☢❗
 
 09/01/2026 no he imputado, Andrés no ha creado tarea
 	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h

@@ -11,6 +11,7 @@
 - Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez, Adrián Castro, Javier Gaitero
 - Leer documentación --> https://www.liderit.es/spec-driven-development-del-caos-al-rigor-en-la-era-de-la-ia/ 
 - Programa para Acceder a clientes BC "FortiClient VPN"
+- Las contraseñas de los clientes están todas en Bitwarden
 
 
 ### Buenas Prácticas Lider

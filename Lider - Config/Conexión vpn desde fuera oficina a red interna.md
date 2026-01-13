@@ -7,3 +7,5 @@ Hacer doble click en el archivo descargado de "Use with sophos connect and Open 
 ![[Pasted image 20251023092704.png]]
 
 En caso de que no se conecte la máquina virtual a internet (ethernet), he conseguido solucionarlo simplemente al cambiar la VPN y conectarme con sophos a la red de la oficina desde la máquina física. Después he reiniciado la máquina virtual y ya tenía acceso a internet.
+
+Para agregar nuevas conexiones de diferentes VPN a Sophos, hay que importar una conexión, y hace falta un archivo con extensión .ovpn
