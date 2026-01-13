@@ -1,0 +1,146 @@
+
+
+- 28/11/2025
+	- Descanso 0.25h
+	- Comprensión de uso de GIT 1.75h
+	- Estudio aplicación PowerToys 1h
+	- CH25-26 3h
+- 01/11/2025
+	- Descanso 0.25h
+	- CH25-26 Mostrar comentarios de cliente en fac venta, pedido venta y albaran venta 2.75h
+	- CH11 2h  
+	- JGP2511281130 Actualizar tooltip 0.5
+	- CH25-28   0.5h
+- 02/11/2025
+	- Descanso 0.25h
+	- Uso de GLPI 0.75h
+	- Tarea JMIF2512021037 chalupa filtro fecha prometida albaranes 4.75h
+	- Llamada Teams coordinación Equipo Desarrollo lider Sevilla 0.25h
+- 03/11/2025
+	- Descanso 0.25h
+	- CH20 ajustes 2.75h
+	- CH Incidencia transporte carta portes y facturación 3h
+- 04/11/2025
+	- Descanso 0.25h
+	- Creación de rama personal para modificar y aprender 1h
+	- CH-21 Carta de portes 4.75h
+- 05/11/2025
+	- Descanso 0.25h
+	- CH-21 Carta de portes 3h 
+	- Parcheo RunAsTool con Helpdesk 0.75h
+	- Unnox acceso git creación archivos base 1h
+	- Organigrama tareas programador/consultor (teams) 0.5h
+	- Alquisur acceso git creación archivos base 0.5h
+- 09/11/2025
+	- Descanso 0.25h
+	- Conexión nuevas instalaciones Sevilla 0.75h
+	- **CH - A -007** - AgregarCampoCod: 1.5h
+	- CH Campo ID Report Tooltip 0.5h
+	- ALQUISUR Campo Contacto albaranes 3h
+- 10/11/2025
+	- Descanso 0.25h
+	- ALQUISUR combinación ramas Pruebas y Producción 0.75h
+	- Estudio de herramientas de teams para productividad 1h
+	- ALQUISUR búsqueda de "desarrollo perdido" para localizar extensiones ya implementadas 3h.
+	- CH-029 1h
+- 11/11/2025
+	- Descanso 0.25h
+	- CH-A028-A029 4.75h
+	- CH Agregar funcionalidad de abrir Pedido Venta desde Albaranes venta 1h
+- 12/12/2025
+	- Descanso 0.25h
+	-  CH-A028-A029 1.75h
+	- CH-A-035.Pedido venta-Albarán venta (kg/merma) 4h
+- 15/12/2025
+	- Descanso 0.25h
+	- CH-A-035.Pedido venta-Albarán venta (kg/merma) 2.75h
+	- Alquisur conflicto de ramas 1h
+	- CH-A-036.Factura 2h
+- 16/12/2025
+	- Descanso 0.25h
+	- Aprender a configurar máquina virtual para publicar en local 2h
+	- CH-25-25 1h
+	- Entorno de CDX 2.75h
+- 17/12/2025
+	- Descanso 0.25h
+	- Migración de máquina virtual a máquina física 2h
+	- Migración de Nube a CDX, importar dependencias 3.75h
+- 18/12/2025
+	- Descanso 0.25h.
+	- Configuración CDX dependencias Chalupa 3.75h 
+	- CH-A - 039 2h
+- 19/12/2025
+	- Descanso 0.25h
+	- Creación de nuevo Sandbox para configurar CDX 2.75h
+	- Lectura Directrices de desarrollo AL Lider 2h
+	- Lectura IA Copylot 1h
+- 22/12/2025
+	- Descanso 0.25h
+	- Configuración de Copylot en navegador y PC, maximizando sus usos 1.75h
+	- HA021 4h
+- 23/12/2025
+	- Descanso 0.25
+	- HA021 3.75h
+	- HA012 1h
+	- Merge Ramas Desarrollo 1h
+- 24/12/2025
+	- Descanso 0.25h
+	- Merge ramas desarrollo Arruzafa y limpieza de código 1.75h
+	- Desarrollo favoritos para agilizar trabajo 4h
+- 29/12/2025
+	- Descanso 0.25h
+	- Ordenado Repositorio y Obsidian, limpieza de archivos 1.75
+	- HA021 Clonación de Entorno de Producción y habilitación de características 1h
+	- Comprensión desarrollo Global Roseta Getronix para reutilizar código en Arruzafa 1h
+	- Instalación Omnisa/ Forticlient para acceder a clientes en remoto 1h
+	- HA022 1h
+- 30/12/2025
+	- Descanso 0.25h
+	- HA022 1.75
+	- Reunión Arancha Feedback prácticas 1h
+	- Configuración DataMatrix 3h 
+- 31/12/2025
+	- Descanso 0.25h
+	- HA022 Traducción y limpieza de código reutilizado de Getronix 3.75h
+	- HA019  2h
+- 02/01/2026
+	- Descanso 0.25h
+	- HA009 5.75 (he puesto 4 de momento, falta 1.75h mas que no me queda formacion, las he puesto en HA019)
+- 07/01/2026
+	- Descanso 0.25h
+	- HA009 obtención y retransmisión de caracteres invisibles con escáner 1h
+	- HA009 lógica codeunit para separar fragmentos del código escaneado 2.75h
+	- HA009 Volcado de datos escaneados a Item Tracking Lines 3.5h
+	- Llamada recursos humanos Arancha Contrato 0.5h
+	- He imputado un total de 6 horas hoy, en el sistema pone que tengo que imputar 6 en lugar de 8.5h
+- 08/01/2026
+	- Descanso 0.25
+	- HA009 1h (ya imputado)
+	- HA005 Importación desarrollo Chalupa CH-004. Adaptación, limpieza de código, refactorización, optimización y traducción 7.25h
+- 09/01/2026
+	- Descanso 0.25h
+	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h
+	- HA001 Refactorización, Optimización y traducción del código 2.75h
+	- Reunión Desarrollo 0.25h
+	- No he imputado estas horas, Andrés no ha creado la tarea.
+- 12/01/2026
+	- Descanso 0.25h
+	- HA021 Correcciones post pruebas consultor 4.5h
+	- HA012: Formato impreso personalizado abono de venta correcciones 1.75h
+	- HA010: Formato impreso personalizado Factura de venta correcciones 2h
+- 13/01/2026
+	- Descanso 0.25h
+	- HA010: Formato impreso personalizado Factura de venta correcciones 2h
+	- HA014: Formato impreso personalizado Factura de venta proforma correcciones y desarrollo paciente solucionado 4h (de momento he puesto 2 hasta que amplíen)❗
+	- Sin actividad 2'25h? ❌🔥☢
+- 14/01/2026
+	- Descanso 0.25h
+
+
+
+### Días no imputados ❌🔥☢
+
+09/01/2026 no he imputado, Andrés no ha creado tarea
+	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h
+	- HA001 Refactorización, Optimización y traducción del código 2.75h
+Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
