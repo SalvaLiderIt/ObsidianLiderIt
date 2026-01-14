@@ -1,4 +1,7 @@
-Importar código relacionado con Paciente desde SalesOrderPELDR.PageExt.al a PostedSalesOrder
+
+HA022 --> Ped transferencia
+
+
 
 
 

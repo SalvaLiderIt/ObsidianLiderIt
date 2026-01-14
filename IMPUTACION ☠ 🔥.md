@@ -135,8 +135,16 @@
 	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 4h 
 - 14/01/2026
 	- Descanso 0.25h
-	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 1h (hay disponibles 4h más)
-- HA010 
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 2h (hay disponibles 2h más)
+	- HA010 correcciones error programación 2h
+	- HA014 correcciones error programación 1h 
+	- HA012 correcciones error programación 1h
+	- HA021 correcciones error programación 1.75h 
+	- HA001 Test con los distintos archivos para el N43 0.5h
+	- HA022 correcciones error programación 0.5h 
+- 15/01/2026
+	- Descanso 0.25h
+	- 
 
 
 

@@ -4,7 +4,12 @@ Leer documentación --> [coc/.AL-Go at main · clinica-oftalmologica-cordoba-356
 
 Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/DesarrolloArruzafa?company=CRONUS%20ES&dc=0 
 
-
+Tenant Arruzafa -> c9666b57-edd4-450d-b07c-a7140590aaca 
+### Extensiones Arruzafa instaladas
+- SII Entorno Desarrollo https://businesscentral.dynamics.com/c9666b57-edd4-450d-b07c-a7140590aaca/Desarrollo?aid=FIN&page=2503&filter=%27ID%27%20IS%20%272c108d4c-e375-4cd0-b514-45ae9b6f09bc%27&signInRedirected=1 
+- 
+### HA010
+Report hecho por Jesús, he modificado el código correspondiente con la funcionalidad de Paciente para que aparezca en el report.
 ### HA001 
 Conciliacion banco pag Bank acc. reconciliation, botón Importa Norma 43
 Tarea equivalente de la que se ha importado el desarrollo -->CH 025-024 Conciliacion bancaria
@@ -27,6 +32,8 @@ Ojito cuidao, he mergeado la rama HA001 a Desarrollo, seguramente necesite modif
 	- 
 	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h
 	- HA001 Refactorización, Optimización y traducción del código 2.75h
+
+En un principio van a utilizarse sólo archivos .txt con los movimientos de los bancos para la prueba de este desarrollo.
 
 ### HA005
 - Pag Importar Nóminas
