@@ -7,7 +7,8 @@ Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.co
 Tenant Arruzafa -> c9666b57-edd4-450d-b07c-a7140590aaca 
 ### Extensiones Arruzafa instaladas
 - SII Entorno Desarrollo https://businesscentral.dynamics.com/c9666b57-edd4-450d-b07c-a7140590aaca/Desarrollo?aid=FIN&page=2503&filter=%27ID%27%20IS%20%272c108d4c-e375-4cd0-b514-45ae9b6f09bc%27&signInRedirected=1 
-- 
+- Retenciones (.app subido directamente a administrador de extensiones). Esta y la anterior ambas están en entornos producción, desarrollo y desarrolloVS.
+
 ### HA010
 Report hecho por Jesús, he modificado el código correspondiente con la funcionalidad de Paciente para que aparezca en el report.
 ### HA001 
@@ -103,6 +104,6 @@ VendorCardLDRExtLDR.PageExt.al
 COCPurchPriceImportBuffer.Table.al  
 PurchasePriceLDR.TableExt.al
 
-Por orden para acceder a este nuevo desarrollo sería, Proveedores --> Seleccionamos un proveedor --> Precios y descuentos en el menú --> Lista de precios de compra (se ha activado esta nueva característica y no aparece en rojo en la columna de actualizacion de datos) --> Nuevo botón “Importar Tarifa” --> Seleccionamos o arrastramos el archivo excel, importante que no tenga columna H, es decir hasta ahora el desarrollo soporta desde la A hasta G incluidas --> Clic en la línea creada con las líneas importadas dentro de ella. 
+Por orden para acceder a este nuevo desarrollo sería, Proveedores --> Seleccionamos un proveedor (importante que el número de proveedor coincida con la primera columna del excel, si no no se va a importar nada)--> Precios y descuentos en el menú --> Lista de precios de compra (se ha activado esta nueva característica y no aparece en rojo en la columna de actualizacion de datos) --> Nuevo botón “Importar Tarifa” --> Seleccionamos o arrastramos el archivo excel, importante que no tenga columna H, es decir hasta ahora el desarrollo soporta desde la A hasta G incluidas --> Clic en la línea creada con las líneas importadas dentro de ella. 
 
 Importante, para que aparezca la nueva característica y el botón “Listas de precios compra” desde Proveedores, hay que activar la nueva característica en el entorno correspondiente “Actualización de características: nueva experiencia de precios de venta”:

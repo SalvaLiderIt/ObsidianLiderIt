@@ -144,13 +144,16 @@
 	- HA022 correcciones error programación 0.5h 
 - 15/01/2026
 	- Descanso 0.25h
+	- HA022 corrección errores tras pruebas consultor 1.5h 
+	- HA009  corrección errores tras pruebas consultor  5.75h
+	- HA021 corrección errores tras pruebas consultor (agregados mensajes descriptivos de errores por parte del usuario) 1h
+- 16/01/2026
+	- Descanso 0.25h
 	- 
 
 
 
 ### Días no imputados ❌🔥☢❗
 
-09/01/2026 no he imputado, Andrés no ha creado tarea
-	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h
-	- HA001 Refactorización, Optimización y traducción del código 2.75h
+09/01/2026 falta 0.5h de la tarea HA001 que no lo han puesto
 Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
