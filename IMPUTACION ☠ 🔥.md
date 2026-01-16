@@ -149,11 +149,15 @@
 	- HA021 corrección errores tras pruebas consultor (agregados mensajes descriptivos de errores por parte del usuario) 1h
 - 16/01/2026
 	- Descanso 0.25h
-	- 
+	- Primera hora, configurar interfaz BC, actualizar #regions código limpieza de código de todos los archivos de Arruzafa esto no tiene tarea 
+	- HA001 N43 pruebas 2.75h ❌🔥 Andrés no ha creado tarea
+	- HA019 Configuración productos con desglose de código GTIN 3h
 
 
 
 ### Días no imputados ❌🔥☢❗
 
-09/01/2026 falta 0.5h de la tarea HA001 que no lo han puesto
-Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
+
+- Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
+- 16/01/2026 HA001 N43 pruebas 2.75h ❌🔥 Andrés no ha creado tarea
+- 

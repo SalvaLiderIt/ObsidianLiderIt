@@ -11,7 +11,7 @@ Tenant Arruzafa -> c9666b57-edd4-450d-b07c-a7140590aaca
 
 ### HA010
 Report hecho por Jesús, he modificado el código correspondiente con la funcionalidad de Paciente para que aparezca en el report.
-### HA001 
+### HA001 N43
 Conciliacion banco pag Bank acc. reconciliation, botón Importa Norma 43
 Tarea equivalente de la que se ha importado el desarrollo -->CH 025-024 Conciliacion bancaria
 Conciliaciones de cuenta bancaria --> Conciliación Banco
@@ -28,13 +28,10 @@ Publicado en DesarrolloVS
 Pendiente de consultor, necesarias configuraciones
 Mergeado a rama Desarrollo
 
-Ojito cuidao, he mergeado la rama HA001 a Desarrollo, seguramente necesite modificaciones, modificar en la rama y luego volver a hacer merge con los cambios.
- 09/01/2026 FALTA POR IMPUTAR ESTAS HORAS DE ESTE DÍA, no han creado tarea 
-	- 
-	- HA001 Investigación de archivos correspondientes en Chalupa para importar desarrollo, comprensión del flujo de uso 2.75h
-	- HA001 Refactorización, Optimización y traducción del código 2.75h
-
 En un principio van a utilizarse sólo archivos .txt con los movimientos de los bancos para la prueba de este desarrollo.
+
+Dudas con respecto a este desarrollo:
+- 
 
 ### HA005
 - Pag Importar Nóminas
