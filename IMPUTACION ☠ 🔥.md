@@ -160,8 +160,14 @@
 	- HA022 reconocimiento de distintos tipos de códigos a escanear, S128, GN1... 2 h
 - 20/01/2026
 	- Descanso 0.25h
-	- HA019
-	- HA022 
+	- HA019 Merge de cambios con importación de misma lógica para los tres desarrollos 1h
+	- HA022 Merge de cambios con importación de misma lógica para los tres desarrollos 1h
+	- HA009 Merge de cambios con importación de misma lógica para los tres desarrollos 1h
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio para anotar todos los objetos usados IEPNR 2.75h
+	- HA001 Pruebas con archivo Caixa proporcionado por el cliente con las consecutivas modificaciones de código. 1.5h
+- 21/01/2026
+	- Descanso 0.25h
+	- 
 
 
 

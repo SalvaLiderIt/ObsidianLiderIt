@@ -8,3 +8,304 @@ Hablar con Alejandro sobre los permisos correspondientes a IEPNR dentro de Hutes
 Reconfigurar licencia, no tienen pagados los permisos de acceso a las tablas/objetos
 La licencia del cliente no está configurada. 
 La licencia de lider tiene acceso a todo, ellos usaban la licencia de lider hasta ahora, y al comenzar a utilizar la suya está limitada.
+
+
+### IDs Extensión IEPNR
+- Codeunits
+	- codeunit 52301 "AddPlasticLines_IEPNR_LDR"
+	- codeunit 52300 "EventosCodeunit_IEPNR_LDR"
+- Enum
+	- enum 52300 "TiposMaestra_IEPNR_LDR"
+- Page
+	- page 52300 "DiarioDeclaEnva_IEPNR_LDR"
+	- page 52301 "ListaCrucesEnv_IEPNR_LDR"
+	- page 52302 "ListaMaestraEnv_IEPNR_LDR"
+	- page 52303 "ListaProductoEnv_IEPNR_LDR"
+	- page 52304 "ListaSeccionesEnv_IEPNR_LDR"
+- Report
+	- report 52302 "CertificadoEnvases_IEPNR_LDR"
+	- report 52301 "EnvasesDeclaration_IEPNR_LDR"
+	- report 52300 "RellenarDecEnvases_IEPNR_LDR"
+- Table
+	- table 52301 "DiarioDecEnvases_IEPNR_LDR"
+	- table 52300 "TablaMaestraEnvases_IEPNR_LDR"
+	
+Ids Extension Hutesa
+- Codeunits
+	- codeunit 50000 AvisoCaducidadNormas_ColaProy
+	- codeunit 50001 AvisoSaldoPendiente_TryCatch
+	- codeunit 50002 CodeAuxiliarSalesLines_LDR
+	- codeunit 50003 "Codeunit Events_LDR"
+	- codeunit 50004 "Conciliar Movimientos (AEB)"
+	- codeunit 50005 Contact_LDR
+	- codeunit 50006 CopyDocumMgtExtension_LDR
+	- codeunit 50007 CreatePickExtension_LDR
+	- codeunit 50008 CustEntryApplyPostedEnries_LDR
+	- codeunit 50009 Customer_LDR
+	- codeunit 50010 DocumentPostExtension_LDR
+	- codeunit 50011 "Ejecuta pesadas_LDR"
+	- codeunit 50012 EventWhsePostShipmentYsNo_LDR
+	- codeunit 50013 EventWhsePostShipmentPrint_LDR
+	- codeunit 50014 Funciones_LDR
+	- codeunit 50058 FuncionesPermisosEspeciales
+	- codeunit 50016 GenJnlCheckLine_LDR
+	- codeunit 50017 GenJnlPostBatch_LDR
+	- codeunit 50059 GenJnlPostPrint_LDR
+	- codeunit 50018 GenJournalLine_LDR
+	- codeunit 50019 GestionAlmacen_LDR
+	- codeunit 50020 GestionSII_LDR
+	- codeunit 50021 InvoiceTypeSubscriber_LDR
+	- codeunit 50022 ItemJnlPostLine_LDR
+	- codeunit 50023 ItemJnlPostPrint_LDR
+	- codeunit 50024 Item_LDR
+	- codeunit 50025 ItemLedgerEntry_LDR
+	- codeunit 50026 "LDR Eventos Codeunit_LDR"
+	- codeunit 50027 "LDR Eventos Table_LDR"
+	- codeunit 50028 "Limpieza de Datos_LDR"
+	- codeunit 50029 "Lot Assignment_LDR"
+	- codeunit 50030 loteAutoPedVenta_LDR
+	- codeunit 50031 "Min. Expiration Months_LDR"
+	- codeunit 50032 "Movs. Pdtes. Conciliar (AEB)"
+	- codeunit 50033 NoTaxableExpansion_LDR
+	- codeunit 50034 PaymnentToleranceManagement
+	- codeunit 50035 prueba_LDR
+	- codeunit 50036 Pru_LDR
+	- codeunit 50037 PurchaseHeader_LDR
+	- codeunit 50038 PurchaseLine_LDR
+	- codeunit 50039 PurchPostYesNo_LDR
+	- codeunit 50040 "Rellenar Dimensiones MAyo_LDR"
+	- codeunit 50041 ReportSeelction_LDR
+	- codeunit 50042 SalesHeaderAux_LDR
+	- codeunit 50043 SalesHeader_LDR
+	- codeunit 50044 SalesLines_LDR
+	- codeunit 50045 SalesPost_LDR
+	- codeunit 50046 ServContractMgtExtension_LDR
+	- codeunit 50047 ServiceContractHeader_LDR
+	- codeunit 50048 Session2_LDR
+	- codeunit 50049 Session_LDR (comentada)
+	- codeunit 50050 SignServConExtension_LDR
+	- codeunit 50051 "SII Management_LDR" (comentada)
+	- codeunit 50052 SubscriberEventMgt_LDR
+	- codeunit 50053 TrabajosPeriodicosSII_LDR
+	- codeunit 50054 TrackingSpecification_LDR
+	- codeunit 50055 UMPreparacion_LDR
+	- codeunit 50056 WarehouseShipmentLine_LDR
+	- codeunit 50057 WhsePostReceipt
+- Page
+	- page 50000 "Abono Agricultores_LDR"
+	- page 50001 "Bank Acc. Ledger Entries_LDR"
+	- page 50027 "Calendar AssistEdit_LDR"
+	- page 50010 "Calendario de Envios_LDR"
+	- page 50068 "Calendario de Envíos CPY_LDR"
+	- page 50070 "Calendario de Recepciones CP"
+	- page 50008 "Calendario de Recepciones_LDR"
+	- page 50067 "Calendario de Recepciones V2"
+	- page 50072 CalendarioRecepciones190320
+	- page 50073 CalendarioRecepciones200320
+	- page 50017 "Cambios Configuracion  IVA_LDR"
+	- page 50009 "Clasificacion Activos Grupo"
+	- page 50081 "CMR STANDAR DIALOG_LDR"
+	- page 50002 "Compras Semanal_LDR"
+	- page 50005 "Configuración Código de Bancos"
+	- page 50091 ConfiguracionCorreoRecla_LDR
+	- page 50040 Configuracion_LDR
+	- page 50033 ConfiguracionSII_LDR
+	- page 50025 "Consulta del Programa_LDR"
+	- page 50058 ConsultaEnvase_LDR
+	- page 50089 ConsultaHistAvisosVencidos_LDR
+	- page 50088 ConsultaHistoricoPreAvisos_LDR
+	- page 50078 "Customer List With Calcs_LDR"
+	- page 50038 DatosInmueble_LDR
+	- page 50039 DetalleExenta_LDR
+	- page 50003 "DIARIO DE PRODUCCION_LDR"
+	- page 50083 EditarDescripcion_LDR
+	- page 50090 "Editar mov reserva_LDR"
+	- page 50092 "Elegir Lote_LDR"
+	- page 50015 "Entradas por producción_LDR"
+	- page 50007 "Factura compras agricultores"
+	- page 50084 "Fecha Caducidades Articulos"
+	- page 50045 FichaDocAlmacen_LDR
+	- page 50055 FichaLectAlmacenBase_LDR
+	- page 50042 FichaLectAlmacen_LDR
+	- page 50056 FichaLectAlmacenPaq_LDR
+	- page 50054 FichaLectAlmacenUbica_LDR
+	- page 50066 ItemTemp_LDR
+	- page 50049 LecturasDocumento_LDR
+	- page 50062 LecturasInventario_LDR
+	- page 50034 LibroFacturasExpedidas_LDR
+	- page 50036 LibroFacturasRecibidas_LDR
+	- page 50035 LibroFrasEmitidasIVA_LDR
+	- page 50037 LibroFrasRecibidasIVA_LDR
+	- page 50047 LineasDocAlmacenDet_LDR
+	- page 50046 LineasDocAlmacen_LDR
+	- page 50061 LineasInventarioLec_LDR
+	- page 50075 "Lineas Pdtes. Conciliar (AEB)"
+	- page 50079 "Lista De CMR_LDR"
+	- page 50044 ListaDocAlmacen_LDR
+	- page 50048 ListaDocAlmacenRed_LDR
+	- page 50064 "Lista incidencias pesadas_LDR"
+	- page 50032 "Lista Log IntegracionSII_LDR"
+	- page 50023 "Lista Material Programa2_LDR"
+	- page 50019 "Lista Material Programa_LDR"
+	- page 50074 "Lista Mov. Cuenta Bancos (AEB)"
+	- page 50065 "Lista pesadas_LDR"
+	- page 50041 ListaTablaMaestra_LDR
+	- page 50080 "Log de cambios de CMR_LDR"
+	- page 50085 LogEnvioSaldoPendiente_LDR
+	- page 50086 ManualPreAvisoReclamacion_LDR
+	- page 50087 ManualVencidoReclamacion_LDR
+	- page 50059 MenuTerminal_LDR
+	- page 50013 "Mini Calendar Envios_LDR"
+	- page 50071 "Mini Calendar Recep CP_LDR"
+	- page 50012 "Mini Calendar Recep_LDR"
+	- page 50069 "Mini Calendar Recep V2_LDR"
+	- page 50004 ModNHistFacturaVenta_LDR
+	- page 50006 "Mov. Banco Corregidos_LDR"
+	- page 50057 MovimientosEnvase_LDR
+	- page 50076 "Movs. Pdtes. Conciliar + AEB"
+	- page 50050 OperacionesAlmacenes_LDR
+	- page 50051 OperacionesPendientes_LDR
+	- page 50031 PagPartMenuCompra_LDR
+	- page 50093 PagPartMenuGestionFinanciera
+	- page 50094 PagPartMenuProduccion_LDR
+	- page 50030 PagPartMenuSII_LDR
+	- page 50028 PagPartMenuVenta_LDR
+	- page 50021 "Pedidos Sin Programar_LDR"
+	- page 50018 ProdOrderComponentAgrupadoAux
+	- page 50020 "ProgramadeProduccion_LDR"
+	- page 50014 "Recepcion P.P/ Retirada M.T"
+	- page 50043 RellenaAlbaran_LDR
+	- page 50053 RoleAlmacenS_LDR
+	- page 50029 RoleCenterHutesa_LDR
+	- page 50060 SelectorUbicacion_LDR
+	- page 50022 "Situación Ordenes Pendientes"
+	- page 50082 StandardDialogLanzarAlmacen
+	- page 50052 Stock_LDR
+	- page 50095 "Sub Componentes Sumatorio2_LDR"
+	- page 50016 "Sub Componentes Sumatorio_LDR"
+	- page 50096 "Subformulario Administracion"
+	- page 50026 "Subformulario Consulta_LDR"
+	- page 50063 SubFrmCodigoCalidad_LDR
+	- page 50011 "Ultimos 5 Precios_LDR"
+	- page 50024 "Unidad Medida Picture_LDR"
+	- page 50097 "Usuarios Asignados_LDR"
+	- page 50077 "Vendor List With Calcs_LDR"
+- Report
+	- report 50067 AccountOfficialAccBook_LDR
+	- report 50079 AlbaranPteFacturarVenta_LDR
+	- report 50002 Albventahutesapacking_LDR
+	- report 50042 BalanceCompPrevYear_LDR
+	- report 50036 BalanceSumaSaldos_LDR
+	- report 50038 BatchPostPurchaseOrders_LDR
+	- report 50049 BatchPostSalesInvoices_LDR
+	- report 50073 BillgroupExportN19_LDR
+	- report 50072 BillgroupExportN58_LDR
+	- report 50060 CalcConsumption_LDR
+	- report 50057 CalculateInventory_LDR
+	- report 50031 CargaFechaRegistroStandard_LDR
+	- report 50014 ClienteMovimientosHUTESA_LDR
+	- report 50037 CMR_LDR
+	- report 50048 CombineShipments_LDR
+	- report 50013 ComprasFacturaAgric_LDR
+	- report 50082 "Confirmación pedido - Hutesa"
+	- report 50077 ConsultaPedidosPendientes_LDR
+	- report 50047 CopySalesDocument_LDR
+	- report 50043 CustomerDetailTrialBal_LDR
+	- report 50045 CustomerItemSales_LDR
+	- report 50035 CustomerItemSalesNew_LDR
+	- report 50046 CustomerSalesList_LDR
+	- report 50028 DimensionProducto_LDR
+	- report 50011 EntradadeProductosJpc_LDR
+	- report 50006 Entradadeproductos_LDR
+	- report 50026 EtiquetaCiclo_LDR
+	- report 50024 EtiquetaUbicacion_LDR
+	- report 50022 FacturaProformaHutesa1_LDR
+	- report 50088 FacturaProformaHutesa_LDR
+	- report 50087 FacturaProformaOfertaHutesa
+	- report 50040 GLRegister_LDR
+	- report 50025 HojaPreparacion_LDR
+	- report 50039 ImportaPesadas_LDR
+	- report 50091 "InformeOrdenProducción_LDR"
+	- report 50029 InformeProgramaProduccion3_LDR
+	- report 50030 InformeProgramaProduccion288
+	- report 50027 InformeProgramaProduccion_LDR
+	- report 50003 InicializarDimCuentas_LDR
+	- report 50004 InicializarDimProductos_LDR
+	- report 50000 IntervencionProvincia_LDR
+	- report 50076 "LDR_Settle Docs. in Posted PO"
+	- report 50020 ListadoContratosAnuales_LDR
+	- report 50069 Make340Declaration_LDR
+	- report 50017 Make347DeclarationAntiguo_LDR
+	- report 50068 Make347Declaration_LDR
+	- report 50001 ModificarPesoNetoItem_LDR
+	- report 50078 OrdenPagoExportarN68_LDR
+	- report 50081 PagareconResumen_LDR
+	- report 50089 PagareHutesaBBVA_LDR
+	- report 50034 PagareHutesaDB_LDR
+	- report 50090 PagareHutesaSantander_LDR
+	- report 50080 Pagare_LDR
+	- report 50008 PagosPorPeriodosEnCartera_LDR
+	- report 50005 PagosPorPeriodosRegistrados
+	- report 50086 PedidoHutesa_LDR
+	- report 50021 PedidoProformaHutesa1_LDR
+	- report 50056 PhysInventoryList_LDR
+	- report 50075 Picking_LDR
+	- report 50016 PlanifAprovMaterial_LDR
+	- report 50015 PlanifAprovMatporOrden_LDR
+	- report 50070 PostPaymentOrder_LDR
+	- report 50019 ProductoaFabricar_LDR
+	- report 50023 ProveedorMovimientosHUTESA_LDR
+	- report 50055 PurchaseCreditMemo_LDR
+	- report 50054 PurchaseInvoice_LDR
+	- report 50062 PurchaseReturnShipment_LDR
+	- report 50066 PurchasesInvoiceBook_LDR
+	- report 50052 PurchaseStatistics_LDR
+	- report 50009 RecordatorioHutesa_LDR
+	- report 50074 RefreshProductionOrder_LDR
+	- report 50010 RellenaGCActivoEnActivo_LDR
+	- report 50065 SalesInvoiceBook_LDR
+	- report 50044 SalesStatistics_LDR
+	- report 50012 SalidadeProductosJpc_LDR
+	- report 50007 SalidadeProductos_LDR
+	- report 50064 SetPeriodTransNos_LDR
+	- report 50071 SettleDocsinPostedPO_LDR
+	- report 50058 SuggestBankAccReconLines_LDR
+	- report 50059 TransBankRectoGenJnl_LDR
+	- report 50041 TrialBalance_LDR
+	- report 50061 UpdateContractPrices_LDR
+	- report 50032 VendorItemPurchases3_LDR
+	- report 50033 VendorItemPurchases4_LDR
+	- report 50053 VendorItemPurchases_LDR
+	- report 50050 VendorList_LDR
+	- report 50051 VendorPurchaseList_LDR
+	- report 50083 VentaAlbVentaHutesa_LDR
+	- report 50085 VentasAbonoHutesa_LDR
+	- report 50084 VentasFacturaHutesa_LDR
+	- report 50063 WhseShipmentCreatePick_LDR
+- Table
+	- table 50001 "340 Declaration Line CP_LDR"
+	- table 50002 CabAlmacen_LDR
+	- table 50003 CMR_LDR
+	- table 50004 "Configuración Conciliación_LDR"
+	- table 50005 ConfiguracionCorreosRecla_LDR
+	- table 50006 Configuracion_LDR
+	- table 50007 ConfiguracionSII_LDR
+	- table 50008 HistoricoAvisosVencidos_LDR
+	- table 50009 HistoricoPreAvisos_LDR
+	- table 50010 LinAlmacen_LDR
+	- table 50011 LinAlmacenLec_LDR
+	- table 50012 "Log CMR_LDR"
+	- table 50013 LogErroresEnvioSaldoPdt_LDR
+	- table 50014 LogIntegracionSII_LDR
+	- table 50015 LotesDisponibles_LDR
+	- table 50016 "Movimientos Bancos AEB_LDR"
+	- table 50017 "Movimientos Bancos AEB(TEMP)"
+	- table 50018 "Movimientos Bancos Importados"
+	- table 50019 MovimientosEnvase_LDR
+	- table 50020 "Pantalla Ordenes Pendientes"
+	- table 50021 Pesadas_LDR
+	- table 50022 "Prod. Order Component Agrupado"
+	- table 50023 Session__LDR
+	- table 50024 SuministroInformacion_LDR
+	- table 50025 TablaMaestra_LDR
+	- table 50026 tblCalidad_LDR

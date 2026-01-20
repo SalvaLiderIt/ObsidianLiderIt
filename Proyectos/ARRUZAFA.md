@@ -14,7 +14,7 @@ Report hecho por Jesús, he modificado el código correspondiente con la funcion
 ### HA001 N43
 Conciliacion banco pag Bank acc. reconciliation, botón Importa Norma 43
 Tarea equivalente de la que se ha importado el desarrollo -->CH 025-024 Conciliacion bancaria
-Conciliaciones de cuenta bancaria --> Conciliación Banco
+**Conciliaciones de cuenta bancaria** --> Conciliación Banco
 El último commit trae una supuesta mejora de código, más rápido y óptimo, posiblemente se haya modificado para mal el comportamiento final del desarrollo, en caso de que no funcione, el penúltimo commit llamado "translation added some code optimized..." tiene la versión que funciona.
 
 Los archivos a creados/importados/modificados
