@@ -7,11 +7,14 @@
 		{"id":"c2ac03db9ec3e6fe","type":"file","file":"imagenes/1006 NEWWORLD.jpg","x":-598,"y":-389,"width":300,"height":400},
 		{"id":"f2c2873b4a4c1f57","type":"file","file":"imagenes/1007 Centurion.jpg","x":-298,"y":-345,"width":400,"height":130},
 		{"id":"6251ac3b5a73130a","type":"file","file":"imagenes/1009 Vabysmo.jpg","x":102,"y":-440,"width":399,"height":191},
-		{"id":"7afd23390f6ada9a","type":"file","file":"imagenes/1010 Tobrex.jpg","x":340,"y":-245,"width":399,"height":271},
 		{"id":"d0c4f2a1a761c354","type":"file","file":"imagenes/1011 Davinefrina.jpg","x":-698,"y":13,"width":400,"height":329},
 		{"id":"156bde37de8542f0","type":"file","file":"imagenes/1013 Fortecortin.jpg","x":-331,"y":-549,"width":400,"height":160},
 		{"id":"7bfaf480a76c1c99","type":"file","file":"imagenes/1014 Paracetamol Braun.jpg","x":-960,"y":-415,"width":380,"height":400},
-		{"id":"65859d9d5ce732b6","type":"file","file":"imagenes/1015 Tecnis Odissey Cod Barras.jpg","x":35,"y":230,"width":400,"height":188}
+		{"id":"e7bfea3476fb8f20","type":"text","text":"Leyenda Tipos Códigos de Barra","x":1061,"y":-380,"width":250,"height":60},
+		{"id":"afb83dfee593a6a9","type":"file","file":"imagenes/Pasted image 20260123081402.png","x":800,"y":-261,"width":400,"height":304},
+		{"id":"1fd648f4919884bb","type":"file","file":"imagenes/Pasted image 20260123081506.png","x":1221,"y":-261,"width":400,"height":337},
+		{"id":"8940f2dd68dcd8d3","type":"file","file":"imagenes/1015 Tecnis Odissey Cod Barras.jpg","x":-298,"y":178,"width":400,"height":188},
+		{"id":"7afd23390f6ada9a","type":"file","file":"imagenes/1010 Tobrex.jpg","x":320,"y":-249,"width":399,"height":271}
 	],
 	"edges":[]
 }

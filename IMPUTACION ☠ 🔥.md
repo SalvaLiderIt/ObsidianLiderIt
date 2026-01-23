@@ -175,7 +175,11 @@
 	- Limpieza de warnings Arruzafa y traducciones 4h
 	- Búsqueda error intercompany Unnox 1h
 	- Documentación sobre escáner Honeywell Voyager 1400g de Arruzafa, a repartir entre las 3 tareas HA009, 0019, 0022   3h
-	- 
+- 23/01/2026
+	- HA009-HA019-HA022
+	- HA019: Adaptación de código a pistola cliente y configuración.
+	
+	
 
 
 

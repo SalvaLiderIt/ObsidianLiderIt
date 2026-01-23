@@ -51,6 +51,7 @@ de importar nominas a Diario general --> nóminas (lista libros diario general) 
 Ahora mismo se importa el archivo y se crean las líneas, falta poder comprobar si los valores se adjudican correctamente a los campos correspondientes (hacen falta conocimientos contables)
 
 ### HA009
+Este desarrollo está en Stand By por orden de Andrés 23/01/2026 Diario de producto
 - Rama Git HA009-MatrixDiarioProducto
 - Archivos usados para este desarrollo: 
 	- ItemJournalLineLDR.TableExt.al
@@ -65,20 +66,17 @@ Ahora mismo se importa el archivo y se crean las líneas, falta poder comprobar 
 
 ### HA019
 
-Pedido Compra
+Pedido Compra, primer paso importante tras dar de alta los productos, decimos a qué almacén entra qué producto, con qué cantidad y que número de lote.
+
+NO TENGO IMAGENES DE UN MISMO PRODUCTO CON DISTINTO LOTE para hacer pruebas. Las imágenes que tengo de un mismo producto pero con distinto identificador se corresponden al Número de Serie, que aún no hay nada como tal en el desarrollo ni en los DDT.
+
 Importado desarrollo de Global Rosetta, archivos creados: 
-
 PurchaseLineLDR.TableExt.al 
-
 PurchaseOrderSubformLDR.PageExt.al 
-
 ScanProductLDR.Page.al (archivo compartido con desarrollo HA022) 
 
 	Creada rama git HA019-MatrixRecepcionAlmacen. 
 
-	Limpiado código, eliminado warnings, traducido todo a Inglés y generado archivo traducciones a Español. 
-
-Commit “Task Finished HA019 added regions” 
 
 ### HA022
 Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.PageExt y TransferLinerLDR.TableExt.al
