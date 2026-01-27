@@ -3,6 +3,10 @@ Mi tenant del CDX  --> CRMbc727119
 Tutorial Lider --> 
 http://sdesgh01:8080/desarrollo/Entornos/EntornoCDX/?h=cdx 
 
+Ojo, normalmente el enlace da error la primera vez, acceder en su lugar a este: 
+https://signup.microsoft.com/get-started/signup?sku=6a4a1628-9b9a-424d-bed5-4118f0ede3fd&ru=https%3a%2f%2fbusinesscentral.dynamics.com%3fredirectedFromSignup%3d1&products=6a4a1628-9b9a-424d-bed5-4118f0ede3fd&ali=1&brandingId=28b276fb-d2a0-4379-a7c0-57dce33da0f9
+volver a introducir credenciales y una vez hecho ya se puede abrir el CDX por primera vez.
+
 Credenciales CDX Tenant https://cdx.transform.microsoft.com/dashboard/tenant-details/e9b6c7f4-0953-485d-b98f-a47b810b30e2
 - TenantSalva  --> ==CRMbc727119.onmicrosoft.com== 
 	- Admin Name admin@CRMbc727119.onmicrosoft.com  

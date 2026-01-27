@@ -34,6 +34,7 @@ Todo funciona a fecha de 21/01/2026
 
 ### HA005
 - Pag Importar Nóminas
+- Importado desarrollo chalupa CH-004
 - Rama de Git HA005-ImportacionExcelNomina
 - Publicado en Desarrollo VS
 - pendiente de pruebas consultor, seguramente hay que modificar cosas, faltan configuraciones por agregar
@@ -49,6 +50,8 @@ Todo funciona a fecha de 21/01/2026
 de importar nominas a Diario general --> nóminas (lista libros diario general) --> Diarios generales (general jorunal) --> sección IMPNOM, a nivel de línea es donde tendría que aparecer las nóminas importadas
 
 Ahora mismo se importa el archivo y se crean las líneas, falta poder comprobar si los valores se adjudican correctamente a los campos correspondientes (hacen falta conocimientos contables)
+
+Dato importante, el 27-01-2026 se ha modificado todo el desarrollo para que el archivo de nóminas a importar sea .csv en lugar de excel, debido a una actualización de BC que no permite el uso de Buffer DotNet
 
 ### HA009
 Este desarrollo está en Stand By por orden de Andrés 23/01/2026 Diario de producto

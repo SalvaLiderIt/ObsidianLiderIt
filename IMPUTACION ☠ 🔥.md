@@ -176,8 +176,17 @@
 	- Búsqueda error intercompany Unnox 1h
 	- Documentación sobre escáner Honeywell Voyager 1400g de Arruzafa, a repartir entre las 3 tareas HA009, 0019, 0022   3h
 - 23/01/2026
+	- Descanso 0.25
 	- HA009-HA019-HA022
-	- HA019: Adaptación de código a pistola cliente y configuración.
+	- HA019: Adaptación de código a pistola cliente y configuración. Todo el día 5.75h
+- 26/01/2026
+	- Descanso 0.25
+	- HA019 Adaptación de distintos códigos datamatrix para nº Lote 4h
+	- HA005 2.5h
+	- Formación Impartida Instalación CDX 2h
+- 27/01/2026
+	- Descanso 0.25h
+	- HA005 Desaparición de tabla "Generic Buffer" con actualización BC, modificación del código para que funcione el desarrollo.
 	
 	
 
