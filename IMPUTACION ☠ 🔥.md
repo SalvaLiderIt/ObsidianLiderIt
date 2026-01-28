@@ -186,9 +186,15 @@
 	- Formación Impartida Instalación CDX 2h
 - 27/01/2026
 	- Descanso 0.25h
-	- HA005 Desaparición de tabla "Generic Buffer" con actualización BC, modificación del código para que funcione el desarrollo.
-	
-	
+	- HA005 Desaparición de tabla "Generic Buffer" con actualización BC, modificación del código para que funcione el desarrollo. Cambiado importación de Excel a .csv 6h ❗
+	- HA19 Agregados más filtros de códigos con diferente formato 1.25h
+	- HA012 1h ❗(se ha creado la tarea un día después y no puedo imputar hacia atrás)
+- 28/01/2026
+	- Descanso 0.25h
+	- HA019 Eliminados Debug, agregadas traducciones, supresión de errores para introducir datos manualmente con códigos con formato extraño 4h
+	- HA022 Test post merge de los cambios en HA019 1h
+	- 
+
 
 
 

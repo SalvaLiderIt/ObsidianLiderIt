@@ -78,8 +78,6 @@ PurchaseLineLDR.TableExt.al
 PurchaseOrderSubformLDR.PageExt.al 
 ScanProductLDR.Page.al (archivo compartido con desarrollo HA022) 
 
-	Creada rama git HA019-MatrixRecepcionAlmacen. 
-
 
 ### HA022
 Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.PageExt y TransferLinerLDR.TableExt.al
