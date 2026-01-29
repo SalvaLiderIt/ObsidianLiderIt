@@ -1,6 +1,7 @@
 
+### Intercompany
 
-
+Arreglar los 6 warnings pequeños de la codeunit y seguir al RF002
 
 ### HA022
 
