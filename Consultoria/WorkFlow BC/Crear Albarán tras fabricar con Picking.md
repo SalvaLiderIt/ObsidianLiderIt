@@ -1,0 +1,2 @@
+Pedido venta --> poner almacén (principal) --> Línea --> Informacion relacionada --> lin seguim product --> asignar un lote a nivel de línea (lotefelipe) --> cerramos esto, --> inicio --> crear envio almacen --> estamos en envío almacen --> crear picking (sin rellenar nada--> aceptar) --> Envío --> Lins Picking --> mostrar documento --> registrar picking (si) --> vuelvo a envio almacen --> Inicio --> registrar envío --> registrar envío --> enviar (con esto ya se genera el albarán) 
+

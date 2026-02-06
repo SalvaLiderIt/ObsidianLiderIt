@@ -2,7 +2,8 @@
 
 Horas 39 desarrollo y 7 análisis 
 
-
+Prompt a agregar después de cada Prompt de las tareas
+-  Varias cosas a tener en cuenta, no puedo generar dependencias en mi .app, el "runtime": "15.1", es ese y no se puede modificar. Intento tener la mayor cantidad posible de código dentro de los mismos archivos para reducir la cantidad de IDs que el cliente necesitará. Adjunto el PDF del DDT y esto es lo que llevo hecho ahora mismo: 
 
 ### InterCompany UX-F005E AUTOMATIZAR
 

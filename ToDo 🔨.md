@@ -1,7 +1,14 @@
 
-### Intercompany
 
-Arreglar los 6 warnings pequeños de la codeunit y seguir al RF002
+
+hacer lo del ninja
+
+Traducciones a Español --> Mensajes debug
+Purchase Order PC400084 created and sent via IC for Sales Order PV400136.
+
+
+
+Movs cola trabajo IMPORTANTE esta página muestra los BLOQUEOS, de codeunits, cuando hay procesos que se quedan atascados.
 
 ### HA022
 

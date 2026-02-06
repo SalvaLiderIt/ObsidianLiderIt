@@ -1,0 +1,1 @@
+Acciones --> planificar --> planificación --> crear ord prod --> hay que acceder a listas órdenes de producción --> estado orden producción Lanzado

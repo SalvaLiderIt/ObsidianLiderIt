@@ -196,10 +196,27 @@
 	- Formación Power Automate 3.25h ❗
 - 29/01/2026
 	- Descanso 0.25h
-	- InterCompany UX-F005E 8h
+	- InterCompany UX-F005E 8.25h
 	- Organización reunión consultores colorimetría estados Entornos entre empresas.  0.25h
-	- 
-
+- 30/01/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E Realización de RF009, RF005, RF006 (en proceso) 5.75h
+- 02/02/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E Realización de RF006, RF002, RF003, RF004, RF007, RF008 8.25h
+- 03/02/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E pruebas, modificaciones, correcciones. 8.25h
+- 04/02/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E pruebas, modificaciones, correcciones 8.25h
+- 05/02/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E pruebas, modificaciones, correcciones 8.25h falta 
+ 1 hora❗
+- 06/02/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E pruebas, modificaciones, correcciones 5.75h
 
 
 
