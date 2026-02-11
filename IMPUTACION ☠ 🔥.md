@@ -217,6 +217,12 @@
 - 06/02/2026
 	- Descanso 0.25h
 	- InterCompany UX-F005E pruebas, modificaciones, correcciones 5.75h
+- 11/02/2026
+	- Descanso 0.25h
+	- Intercompany UX-F005E Implementación de C16, V16 con Intercompany 8.25h
+- 12/02/2026
+	- Descanso 0.25h
+	- Intercompany UX-F005E
 
 
 

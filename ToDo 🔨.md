@@ -1,4 +1,7 @@
-En el último commit se han incluido mensajes de debug para copiar/pegar a la IA, para que pueda traquear la información que se está reteniendo con respecto a la lin seguin prod. <mark style="background: #BBFABBA6;">Seguir por aqui</mark> Esto con respecto al RF008 para terminar los requisitos.
+
+
+
+
 
 hacer lo del ninja
 

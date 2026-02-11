@@ -1,14 +1,13 @@
 
-<mark style="background: #FF5582A6;">A nivel de línea sigue mandando las líneas sin completar con toda la información. (APQ, ADR, tipo paletización, fecha entrega planificada, fecha envio planificada, fecha envio, nº bultos) + Implantación desarrollo V16 Jose</mark>
-Falta traducciones al Francés
-Mensaje error tras facturar en la empresa B, (falso mensaje de error ya que sí que genera la factura)
+- Tipo paletización --> es el último campo. Este campo no está mostrando la información en el pedido de compra de la empresa A, al pulsar el botón de intercompany y crear ese pedido de compra, este campo también tiene que mostrarse con el valor que tiene en el pedido de venta. A nivel de línea, en la primera parte del proceso de Intercompany.
 
-RF008, NO se ha generado el albarán de compra ni el de venta en la empresa A. Lo último que se hizo fue crear la factura desde la empresa C. Según el RF008 ya se tendría que haber creado el albarán de compra y venta. 
+- Falta traducciones al Francés
 
 
-El consultor no había tenido en cuenta que para que funcione el RF008, también hay que especificar la información correspondiente al lote (me da este error en BC a la hora de generar el albarán de compra de manera manual en la empresa A). Por lo que necesitamos trasladar de manera automática también en el proceso de generar la factura y el RF008, la información correspondiente a los campos que están en la página Lins seguim prod.
 
-En el último commit se han incluido mensajes de debug para copiar/pegar a la IA, para que pueda traquear la información que se está reteniendo con respecto a la lin seguin prod. <mark style="background: #BBFABBA6;">Seguir por aqui</mark>
+
+pedidos fantasma, cada vez que le doy al botón de Intercompany en la empresa A, no se muy bien por qué pero se crea otro pedido de venta con otro cliente distinto y vacío. Esto evidentemente no puede ocurrir ya que llena de basura la lista de pedidos de venta de mi cliente. IMPOSIBLE, 2 HORAS INTENTANDO SOLUCIONARLO Y NO HAY MANERA, el problema viene del desarrollo Intercompany, activando y desactivando cosas he conseguido que no se genere, pero una de dos. Si no se hace pedido fantasma, tampoco se hacer el flow de intercompany, y viceversa
+
 
 
 
@@ -20,4 +19,5 @@ RF008, En Pedido de compra de la empresa A, BC estandard lanza un mensaje azul e
 
 Dirección cliente, en el informe,  Dirección del cliente tiene que tener los datos del cliente final, los datos de dirección del cliente mismos que tiene en dirección envío. RF007 Ojo también con el número de albarán
 
-Estar pendiente de Pedidos ventas, que no se generen pedidos fantasma para CLIENTE PRUEBA, vigilar que no se genere basura al comienzo del proceso.
+
+RF008, NO se ha generado el albarán de compra ni el de venta en la empresa A. Lo último que se hizo fue crear la factura desde la empresa C. Según el RF008 ya se tendría que haber creado el albarán de compra y venta.  Último commit con debug para ver que info llega.  la información correspondiente a los campos que están en la página Lins seguim prod.
