@@ -66,6 +66,8 @@ Este desarrollo está en Stand By por orden de Andrés 23/01/2026 Diario de prod
 - Mergeado a rama Desarrollo
 - Publicado en Desarrollo VS
 - Pendiente de Consultor
+12-02-2026 
+Cambiada lógica/páginas etc para que utilicen la misma que HA019 y HA022, funciona todo, a falta de ajustar lo del Número de Serie (solo funciona con Lote), y no tenemos ejemplos por parte del cliente de una fotografía de un mismo producto pero con distinto lote para probar si se suma a nivel de lin seguim prod. Mergeado desde desarrollo, implementado cambios, mergeado A Desarrollo, publicado en Desarrollo ( Entorno)
 
 ### HA019
 
@@ -82,9 +84,11 @@ ScanProductLDR.Page.al (archivo compartido con desarrollo HA022)
 ### HA022
 Consta de 3 archivos, EscanearProductosLDR.Page.al,  TransferOrderSubformLDR.PageExt y TransferLinerLDR.TableExt.al
 
-Para comprobar el desarrollo es en la página **Pedidos de Transferencia** (Transfer Orders), tabla Transfer Header. --> Crear un n uevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
+Para comprobar el desarrollo es en la página **Pedidos de Transferencia** (Transfer Orders), tabla Transfer Header. --> Crear un nuevo pedido de transferencia --> hacer clic a nivel de linea y ya aparece la página "Transfer Order Subform" y su tabla "Transfer Line"
 
 Tarea finalizada, Publicada en DesarrolloVS, mergeada rama a Desarrollo. La rama en la que se ha realizado se llama HA022-LectorQRTransferOrder, el último commit se llama "All warnings fixed all translation...task finished HA022"
+
+12/02/2026: Actualizado/mergeado de desarrollo y hasta desarrollo. La tarea funciona, se leen y  muestran todos los códigos salvo las imágenes borrosas y las que tienen Serial Number.
 
 ### HA012
 - Falta por agregar el campo retencion 19% y meterlo dentro del procedimiento que calcula la sumatoria. (tiene que avisar MariPaz)

@@ -64,3 +64,24 @@ Se tiene que transformar en
 <source>Invoice Nº:</source>
 <target state="translated">Nº Factura:</target>
 ```
+
+
+
+Para evitar la CAGADA MONUMENTAL de que no se puedan generar los archivos usando el comando de XLIFF to single file, MUY importante, tener en el archivo settings.json lo siguiente
+
+```json
+
+"xml.validation.enabled": true,
+    "xml.validation.disallowDocTypeDecl": false,
+    "xml.validation.resolveExternalEntities": false,
+    "[xml]": {
+        "xml.validation.noGrammar": "ignore"
+    },
+    "xliffSync.baseFile": "Arruzafa.g.xlf",
+    "xliffSync.languagePaths": {
+        "es-ES": "Arruzafa.es-ES.xlf"
+    }
+    
+```
+
+

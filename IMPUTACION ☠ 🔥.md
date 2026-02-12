@@ -213,7 +213,7 @@
 - 05/02/2026
 	- Descanso 0.25h
 	- InterCompany UX-F005E pruebas, modificaciones, correcciones 8.25h falta 
- 1 hora❗
+ 1 hora
 - 06/02/2026
 	- Descanso 0.25h
 	- InterCompany UX-F005E pruebas, modificaciones, correcciones 5.75h
@@ -222,7 +222,12 @@
 	- Intercompany UX-F005E Implementación de C16, V16 con Intercompany 8.25h
 - 12/02/2026
 	- Descanso 0.25h
-	- Intercompany UX-F005E
+	- HA005 Modificaciones post recibir excel actualizado por cliente con más columnas que en el desarrollo importado. + traducciones (corregir incidencia de otros programadores que ha afectado al sistema de traducción) 6h.
+	- HA022 1h
+	- HA009 actualización con el mismo sistema de HA019 y HA022,  1.25h
+- 13/02/2026
+	- Descanso 0.25h
+	- 
 
 
 
