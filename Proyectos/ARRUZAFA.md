@@ -68,6 +68,8 @@ Este desarrollo está en Stand By por orden de Andrés 23/01/2026 Diario de prod
 - Pendiente de Consultor
 12-02-2026 
 Cambiada lógica/páginas etc para que utilicen la misma que HA019 y HA022, funciona todo, a falta de ajustar lo del Número de Serie (solo funciona con Lote), y no tenemos ejemplos por parte del cliente de una fotografía de un mismo producto pero con distinto lote para probar si se suma a nivel de lin seguim prod. Mergeado desde desarrollo, implementado cambios, mergeado A Desarrollo, publicado en Desarrollo ( Entorno)
+1005 el lote no lo vuelca bien
+1009 lote y fecha
 
 ### HA019
 

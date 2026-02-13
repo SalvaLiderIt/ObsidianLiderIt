@@ -227,6 +227,10 @@
 	- HA009 actualización con el mismo sistema de HA019 y HA022,  1.25h
 - 13/02/2026
 	- Descanso 0.25h
+	- Intercompany UX-F005E Traducciones masivas al Francés + solución de bug de generación de pedidos fantasma 4h
+	- Intercompany UX-F005E Merge con Desarrollo, limpieza de errores, prueba post merge para verificar que Intercompany funciona 1.75h
+- 16/02/2026
+	- Descanso 0.25h
 	- 
 
 
