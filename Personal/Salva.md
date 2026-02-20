@@ -18,7 +18,7 @@ Notas Salva
 	- Style Settings
 -  Un programa muy bueno para aumentar las funcionalidades de Windows es Microsoft PowerToys (lanzador rápido/buscador como en Apple) usando Alt + Espacio
 	- Color Picker pulsando Win + Shift + C
-- 
+- Pin movil oficina 0690
 - 
 
 

@@ -9,6 +9,25 @@ Tenant Arruzafa -> c9666b57-edd4-450d-b07c-a7140590aaca
 - SII Entorno Desarrollo https://businesscentral.dynamics.com/c9666b57-edd4-450d-b07c-a7140590aaca/Desarrollo?aid=FIN&page=2503&filter=%27ID%27%20IS%20%272c108d4c-e375-4cd0-b514-45ae9b6f09bc%27&signInRedirected=1 
 - Retenciones (.app subido directamente a administrador de extensiones). Esta y la anterior ambas están en entornos producción, desarrollo y desarrolloVS.
 
+
+Dependencias de IntermediaArruzafa = Arruzafa y Retenciones
+
+Archivos modificados para los reports correspondientes a tareas HA010, HA012 y HA014:
+- SalesInvoiceReportLDR.Report.al
+- SalesInvoiceReport.rdl
+- AbonoVenta.rdl
+- FacturaVentaProforma.rdl
+- AbonoVentaLDR.Report.al
+- FacturaVentaProformaLDR.Report.al
+- CompanyInformationTELDR.TableExt.al (aporta informativeClause_LDR que se usa en el dataset a nivel de UI)
+- CompanyInformationPELDR.PageExt.al
+
+Estos archivos han sido trasladados desde arruzafa a Intermedia.
+
+
+
+
+
 ### HA010
 Report hecho por Jesús, he modificado el código correspondiente con la funcionalidad de Paciente para que aparezca en el report.
 ### HA001 N43

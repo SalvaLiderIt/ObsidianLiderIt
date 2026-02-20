@@ -231,13 +231,27 @@
 	- Intercompany UX-F005E Merge con Desarrollo, limpieza de errores, prueba post merge para verificar que Intercompany funciona 1.75h
 - 16/02/2026
 	- Descanso 0.25h
-	- 
+	- Unnox Intercompany UX-F005E, pruebas y evolutivo RF008 lote para automatizar proceso de vuelta. 8.25h
+	- tengo que inventarme la imputacion con formacion/organizacion/preventa COOL
+- 17/02/2026
+	- Descanso 0.25h
+	- Unnox Intercompany UNNOX-F005E-001, pruebas y evolutivo RF008 lote para automatizar proceso de vuelta 8.25h
+- 18/02/2026
+	- Descanso 0.25h
+	- Unnox Intercompany UNNOX-F005E-001 pruebas y evolutivo RF008 lote para automatizar proceso de vuelta 8.25
+- 19/02/2026
+	- Descanso 0.25h
+	- Unnox Intercompany UNNOX-F005E-001 pruebas y evolutivo RF008 lote para automatizar proceso de vuelta 2h
+	- Llamada con Alejandro Muñoz 2h
+	- HA012 Creación de campo retenciones con Intermedia Arruzafa 1h
+	- HA010 Creación de campo retenciones con Intermedia Arruzafa 0.75h
+	- Formación Recibida 2h reports
+- 20/02/2026
+	- Descanso 0.2h
+	- HA010,HA012,HA014 Creación de campo retenciones con Intermedia Arruzafa 
 
 
 
 ### Días no imputados ❌🔥☢❗
 
-
-- Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
-- 
 - 
