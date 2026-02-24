@@ -1,0 +1,7 @@
+- **SetRange**: aplica filtros exactos (acumulativos).
+- **FindSet()**: retorna el primer registro de un set **optimizado** para iterar; `true` si hay filas.
+- **repeat…until / Next()**: patrón de recorrido; `Next() = 0` ⇒ fin.
+- **Message('%1')**: placeholders; evita spamear dentro del bucle en productivo.
+- **Reset()**: limpia filtros/clave si vas a reutilizar el record.
+- **SetCurrentKey**: fija el **orden** de iteración.
+- **FindSet(true)**: si vas a **modificar** registros dentro del bucle.

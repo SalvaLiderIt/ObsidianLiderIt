@@ -20,4 +20,5 @@
   - alt + Q --> abrir lupa (buscador) en  business central desde el navegador
   - ctrl + H --> edición masiva de texto señalado
   - F12 --> Dentro de Visual Sudio code, si tengo seleccionado algo me lleva a la definición, por ejemlo al archivo donde se declara un proceso
-  - 
+
+https://alguidelines.dev/docs/bestpractices/keyboard-shortcuts/

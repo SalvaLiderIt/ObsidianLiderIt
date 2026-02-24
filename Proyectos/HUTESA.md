@@ -1,13 +1,28 @@
+[Administrador de contabilidad - Dynamics 365 Business Central](http://192.168.0.210:8080/BC140/) BC desde el navegador, hace falta credenciales de acceso para entrar
 
-Pruebas migraciones, falta una extensión. IEPNR (impuesto de plástico), (para hacer pruebas acceder a "Envase en el buscador")
-La versión de IEPNR instalada es 20.2.0.0
-La extensión aparece pero no encuentro ninguna de las páginas. Ej: diario declaración envases, lista configuración de envases..
 
-Hablar con Alejandro sobre los permisos correspondientes a IEPNR dentro de Hutesa, no permiten acceder a las páginas/apartados del desarrollo. Tiene la misma versión que en navision y está instalada.
 
-Reconfigurar licencia, no tienen pagados los permisos de acceso a las tablas/objetos
-La licencia del cliente no está configurada. 
-La licencia de lider tiene acceso a todo, ellos usaban la licencia de lider hasta ahora, y al comenzar a utilizar la suya está limitada.
+Incidencia Hutesa
+
+Plásticos 
+Diario envases Diario declaracion envases. Se apuntan los asientos y se genera la declaración para pagar a hacienda impuesto de plasticos.  Navegar, configuracion  Lista cruces operaciones. 
+Observaciones(Albarán = nº documento), Nº documento (NIF PROVEDOR) hacienda, están al contrario 
+![[Pasted image 20260220121500.png]]
+
+Ver de donde viene la info Concepto
+
+DiarioDeclaEnva_IEPNR 52300 pag
+DiarioDecEnvases 52301 tabla
+
+Campo 19 albarán tendría que ser el de observaciones.
+
+Campo NifDestinatarioProveedor 500007 este tendría que llevar a lo que hacienda llama nº documento.
+
+En hacienda el nº albarán lo llaman Justificante. 
+
+Mirar el Concepto ( de qué campo viene la info)
+
+
 
 
 ### IDs Extensión IEPNR

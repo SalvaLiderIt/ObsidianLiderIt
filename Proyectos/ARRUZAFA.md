@@ -5,7 +5,7 @@ Leer documentación --> [coc/.AL-Go at main · clinica-oftalmologica-cordoba-356
 Link BC CDX Desarrollo Arruzafa (MI CDX) --> https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/DesarrolloArruzafa?company=CRONUS%20ES&dc=0 
 
 Tenant Arruzafa -> c9666b57-edd4-450d-b07c-a7140590aaca 
-### Extensiones Arruzafa instaladas
+### Extensiones DEPENDENCIAS Arruzafa instaladas
 - SII Entorno Desarrollo https://businesscentral.dynamics.com/c9666b57-edd4-450d-b07c-a7140590aaca/Desarrollo?aid=FIN&page=2503&filter=%27ID%27%20IS%20%272c108d4c-e375-4cd0-b514-45ae9b6f09bc%27&signInRedirected=1 
 - Retenciones (.app subido directamente a administrador de extensiones). Esta y la anterior ambas están en entornos producción, desarrollo y desarrolloVS.
 

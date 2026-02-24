@@ -247,9 +247,20 @@
 	- HA010 Creación de campo retenciones con Intermedia Arruzafa 0.75h
 	- Formación Recibida 2h reports
 - 20/02/2026
-	- Descanso 0.2h
-	- HA010,HA012,HA014 Creación de campo retenciones con Intermedia Arruzafa 
+	- Descanso 0.25h
+	- HA014 Creación de campo retenciones con Intermedia Arruzafa 3h
+	- Organización           1.75h
+	- Incidencia Error en el diario de declaración de envases Hutesa, investigación en el remoto hasta localizar el posible problema 1h
+- 24/02/2026
+	- Descanso 0.25h
+	- Formación Impartida. Instalación y explicación de CDX, Visual Studio con Extensiones, configuración y Git a Claudia 3.75h
+	- UX-F004-03-A Informe Factura Proforma y Factura Venta 2h
 
+
+
+
+
+Me sobran 4.25 h de organización (ya he contado el tiempo de la reunión y los descansos de todos los días hasta terminar el mes)
 
 
 ### Días no imputados ❌🔥☢❗
