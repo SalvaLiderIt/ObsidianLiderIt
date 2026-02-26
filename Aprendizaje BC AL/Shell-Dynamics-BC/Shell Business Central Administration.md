@@ -30,3 +30,14 @@ Restart-navserverInstance -ServerInstance BC260
 ```
 
 ![[Pasted image 20251020125143.png]]
+
+Para publicar una extensión en la shell de Hutesa
+```shell
+Publish-NAVApp -ServerInstance BC -Path "E:\Usuarios\Adminnav\Desktop\Extension Plastico IEPNR\LiderIT_IEPNR_20.3.54.0.app" -SkipVerification
+```
+
+Si hay problema de falta de campos/tablas y quiero forzar
+
+```shell
+Sync-NAVApp -ServerInstance BC -Name "IEPNR" -Version 20.3.54.0 -Tenant default -Mode ForceSync
+```

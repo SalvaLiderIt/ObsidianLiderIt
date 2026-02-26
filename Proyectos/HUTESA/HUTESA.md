@@ -1,14 +1,12 @@
-[Administrador de contabilidad - Dynamics 365 Business Central](http://192.168.0.210:8080/BC140/) BC desde el navegador, hace falta credenciales de acceso para entrar
+[Administrador de contabilidad - Dynamics 365 Business Central](http://192.168.0.210:8080/BC140/) <mark style="background: #FF5582A6;">BC140</mark> desde el navegador, hace falta credenciales de acceso para entrar BC140 --> HIBRIDO, NO MIGRACION.
 
-
+[Dynamics 365 Business Central](http://192.168.0.210:8080/BC/?company=HUTESA%20AGROALIMENTARIA%2C%20S.A.&dc=0) <mark style="background: #FFB86CA6;">BC25 Migración</mark> 
 
 Incidencia Hutesa
 
 Plásticos 
 Diario envases Diario declaracion envases. Se apuntan los asientos y se genera la declaración para pagar a hacienda impuesto de plasticos.  Navegar, configuracion  Lista cruces operaciones. 
 Observaciones(Albarán = nº documento), Nº documento (NIF PROVEDOR) hacienda, están al contrario 
-![[Pasted image 20260220121500.png]]
-
 Ver de donde viene la info Concepto
 
 DiarioDeclaEnva_IEPNR 52300 pag

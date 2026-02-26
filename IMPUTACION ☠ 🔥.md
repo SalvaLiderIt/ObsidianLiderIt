@@ -253,14 +253,27 @@
 	- Incidencia Error en el diario de declaración de envases Hutesa, investigación en el remoto hasta localizar el posible problema 1h
 - 24/02/2026
 	- Descanso 0.25h
-	- Formación Impartida. Instalación y explicación de CDX, Visual Studio con Extensiones, configuración y Git a Claudia 3.75h
-	- UX-F004-03-A Informe Factura Proforma y Factura Venta 2h
+	- Formación Impartida. Instalación y explicación de CDX, Visual Studio con Extensiones, configuración y Git a Claudia, configuración VPN 4h
+	- UX-F004-03-A Informe Factura Proforma y Factura Venta 3h
+	- Incidencia Hutesa LDR-I-26-05701  1.25h
+- 25/02/2026
+	- Descanso 0.25h
+	- Incidencia Hutesa LDR-I-26-05701 Intentar Mostrar Movs de trabajo de tipo consumo. 6h
+	-  Incidencia Hutesa LDR-I-26-05701 Agrupar componentes en diario de producto filtrados por la fecha 2.25h
+- 26/02/2026
+	- Descanso 0.25h
+	- Incidencia Hutesa LDR-I-26-05701 Mostrar Movs de trabajo de tipo consumo con valores negativos 4h
+	- Incidencia Hutesa Plásticos LDR-I-26-05276, instalación de versión actualizada a BC 25 2h
+	- Faltan 2.25h
+- 27/02/2026
+	- Descanso 0.25h
+	- 
 
 
 
 
 
-Me sobran 4.25 h de organización (ya he contado el tiempo de la reunión y los descansos de todos los días hasta terminar el mes)
+Me sobran 2.75 h de organización (ya he contado el tiempo de la reunión y los descansos de todos los días hasta terminar el mes)
 
 
 ### Días no imputados ❌🔥☢❗
