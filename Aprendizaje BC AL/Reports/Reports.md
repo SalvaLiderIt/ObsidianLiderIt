@@ -44,3 +44,10 @@ report 50101 MyReport
 ```
 En dynamics al abrir este report aparecerá la opción Number en el caso de que esa línea no esté comentada ![[Pasted image 20251120124232.png]]
 
+
+
+
+Para Imprimir los reports navegar a:
+- Histórico Facturas venta --> SalesInvoiceReport (Factura Venta)
+- Histórico notas Abono Venta (botón Imprimir) --> AbonoVenta 
+- Factura Venta o Pedido Venta (botón Factura proforma) --> FacturaVentaProforma 

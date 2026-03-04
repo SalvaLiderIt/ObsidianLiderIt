@@ -8,7 +8,6 @@
 - Ciclo de Desarrollo Lider [Entornos en el cliente - Documentación LiderIT](http://sdesgh01:8080/desarrollo/Entornos/EntornosCliente/) 
 - Documentación Lider [Documentación LiderIT](http://sdesgh01:8080/) 
 - [[Conexión vpn desde fuera oficina a red interna]] poner VPN Lider
-- Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez, Adrián Castro, Javier Gaitero
 - Leer documentación --> https://www.liderit.es/spec-driven-development-del-caos-al-rigor-en-la-era-de-la-ia/ 
 - Programa para Acceder a clientes BC "FortiClient VPN"
 - Las contraseñas de los clientes están todas en Bitwarden
@@ -27,4 +26,7 @@
 
 
 
-
+Personal Lider a contactar según necesidades
+- 🔱🗡️LvL God  --> ⚡️Alejandro Muñoz, Cristian, Tamara y Marcelino
+- 🛠 Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez, Adrián Castro, Javier Gaitero
+- 

@@ -2,7 +2,13 @@
 
 [Dynamics 365 Business Central](http://192.168.0.210:8080/BC/?company=HUTESA%20AGROALIMENTARIA%2C%20S.A.&dc=0) <mark style="background: #FFB86CA6;">BC25 Migración</mark> 
 
-Incidencia Hutesa
+
+
+
+
+
+
+## Incidencia Hutesa Plásticos 
 
 Plásticos 
 Diario envases Diario declaracion envases. Se apuntan los asientos y se genera la declaración para pagar a hacienda impuesto de plasticos.  Navegar, configuracion  Lista cruces operaciones. 
@@ -22,8 +28,7 @@ Mirar el Concepto ( de qué campo viene la info)
 
 
 
-
-### IDs Extensión IEPNR
+## IDs Extensión IEPNR
 - Codeunits
 	- codeunit 52301 "AddPlasticLines_IEPNR_LDR"
 	- codeunit 52300 "EventosCodeunit_IEPNR_LDR"

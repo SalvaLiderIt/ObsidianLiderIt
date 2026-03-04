@@ -264,16 +264,25 @@
 	- Descanso 0.25h
 	- Incidencia Hutesa LDR-I-26-05701 Mostrar Movs de trabajo de tipo consumo con valores negativos 4h
 	- Incidencia Hutesa Plásticos LDR-I-26-05276, instalación de versión actualizada a BC 25 2h
-	- Faltan 2.25h
+	- Organización Obsidian preparando apuntes Aprendizaje 2.25h
 - 27/02/2026
 	- Descanso 0.25h
-	- 
+	- Organización Reunión mensual equipo programación 0.5h
+	- Borrar Ramas creadas por mí de todos los proyectos utilizando MCP y explicación CICD 0.75h  Unnox Preventa
+	- Borrar Ramas creadas por mí de todos los proyectos utilizando MCP y explicación CICD 0.75h Arruzafa Preventa
+	- Borrar Ramas creadas por mí de todos los proyectos utilizando MCP y explicación CICD 0.75h Chalupa Preventa
+	- HA-A-01 Agregados Pie de página con imágenes y campos de CompanyInformation a los tres Informes Factura Venta, Factura Venta Proforma y AbonoVenta 3h
+- 03/03/2026
+	- Descanso 0.25h
+	- Alquisur Limpieza de dependencias/warnings 7.75h
+	- Formación ERPIt Carolina 0.5h
+- 04/03/2026
+	- Descanso 0.25h
+	- Alquisur Limpieza de dependencias/warnings 
+	- HA005 Arruzafa Excel cliente modificado
 
 
 
-
-
-Me sobran 2.75 h de organización (ya he contado el tiempo de la reunión y los descansos de todos los días hasta terminar el mes)
 
 
 ### Días no imputados ❌🔥☢❗

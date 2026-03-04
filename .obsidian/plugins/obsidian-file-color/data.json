@@ -46,6 +46,11 @@
       "id": "M8rjIg4WpFnNxRgZVn8VO",
       "name": "naranja",
       "value": "#ff6600"
+    },
+    {
+      "id": "i27tsbA6nT295xEM43_fc",
+      "name": "Morao",
+      "value": "#e100ff"
     }
   ],
   "fileColors": [
@@ -58,7 +63,7 @@
       "color": "Yskw2rvC3yAbx2TQQLmmV"
     },
     {
-      "path": "Lider - Config/LiderIT Anotaciones.md",
+      "path": "Lider - Config/🧫 LiderIT Anotaciones.md",
       "color": "M8rjIg4WpFnNxRgZVn8VO"
     },
     {
@@ -146,12 +151,16 @@
       "color": "uaBBoW0PLqino4pG1xEn8"
     },
     {
-      "path": "Aprendizaje BC AL/Funciones y Palabras reservadas AL.md",
+      "path": "Aprendizaje BC AL/🧬 Funciones y Palabras reservadas AL.md",
       "color": "3kWM8Qh_rEpSzNgtVQXOY"
     },
     {
-      "path": "Personal/⚡️God Mode 🔱🗡️.md",
+      "path": "Personal/⚡️God Mode 🔱🗡️⚡️.md",
       "color": "7uZJQFsIsBKotSG04VoCL"
+    },
+    {
+      "path": "Aprendizaje BC AL/Power BI",
+      "color": "i27tsbA6nT295xEM43_fc"
     }
   ]
 }
