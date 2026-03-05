@@ -11,6 +11,7 @@ Pag a nivel de línea: Sub Componentes Sumatorio_LDR 50016
 Tabla Prod. Order Component Agrupado 50022
 
 
+Hutesa Importante asignar boolean True: El almacén de consumo debe estar marcado en la tabla **Location** con la propiedad `"Almacen CONSUMO_LDR" = true`.
 
 ## Workflow para crear un <mark style="background: #BBFABBA6;">diario de producción.</mark>
 Para crear un diario de producción ir a <mark style="background: #FFB86CA6;">Programa de Producción</mark>, seleccionar semana/año/lina de producción. 

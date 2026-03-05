@@ -1,16 +1,8 @@
 
-Importante asignar boolean True: El almacén de consumo debe estar marcado en la tabla **Location** con la propiedad `"Almacen CONSUMO_LDR" = true`.
+Llamar a Claudia para comentar deprecated de Getronix.
 
+Faltan las dependencias . hacer fetch por si acaso en intermedia mañanaa antes de empezar
 
-Seguir agregando namespaces y limpiando archivos/traducciones Alquisur-Intermedia carpeta Api últimos 3 archivos LDR-PR25-0368
-
-NO PUBLICA BIEN INTERMEDIA
-Incidencia Alquisur integración de ramas
-
-
-diario prod
-pedidos transferencia
-Pedido de compra
 
 ## Unnox Incidencia Reports 
 

@@ -1,5 +1,5 @@
 
-
+### old
 - 28/11/2025
 	- Descanso 0.25h
 	- Comprensión de uso de GIT 1.75h
@@ -265,6 +265,7 @@
 	- Incidencia Hutesa LDR-I-26-05701 Mostrar Movs de trabajo de tipo consumo con valores negativos 4h
 	- Incidencia Hutesa Plásticos LDR-I-26-05276, instalación de versión actualizada a BC 25 2h
 	- Organización Obsidian preparando apuntes Aprendizaje 2.25h
+## new
 - 27/02/2026
 	- Descanso 0.25h
 	- Organización Reunión mensual equipo programación 0.5h
@@ -278,8 +279,21 @@
 	- Formación ERPIt Carolina 0.5h
 - 04/03/2026
 	- Descanso 0.25h
-	- Alquisur Limpieza de dependencias/warnings 
-	- HA005 Arruzafa Excel cliente modificado
+	- LDR-I-26-06576 Alquisur Limpieza de dependencias/warnings, y subida mediante CICD al repositorio Alquisur-Intermedia 4.5h
+	- HA005 Arruzafa Excel cliente modificado 1h
+	- HA019, HA021, HA009 adaptación códigos de barra proporcionados por cliente, para que asignen apropiadamente Lote y fecha de Caducidad 1h
+	- Formación Impartida traducciones Carolina 0.5h
+	- LDR-PR20-0155 Incidencia Valoración, conexión y toma de contacto Global Roseta Getronix para limpieza del proyecto 1.5h
+	- 
+- 05/03/2026
+	- Descanso 0.25h
+	- LDR-I-26-06787 Limpieza de ramas, mergeo de código, limpieza de +2000 warnings, traducciones adaptadas, creación de aplicación intermedia para eliminar dependencias 6.75h
+	- Organización Instalación 3CX + Video + credenciales 0.5h
+	- Organización Clonar Ramas Github desde remotos 0.5
+	- Formación Impartida, Buenas prácticas de AL, a Carolina 0.5 
+- 06/03/2026
+	- Descanso 0.25h
+	- LDR-I-26-06787 Eliminación de dependencias trasladando código a Intermedia
 
 
 
