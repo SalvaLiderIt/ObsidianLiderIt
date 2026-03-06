@@ -293,8 +293,13 @@
 	- Formación Impartida, Buenas prácticas de AL, a Carolina 0.5 
 - 06/03/2026
 	- Descanso 0.25h
-	- LDR-I-26-06787 Eliminación de dependencias trasladando código a Intermedia
-
+	- LDR-I-26-06787 Eliminación de dependencias trasladando código a Intermedia 3h
+	- LDR-I-26-07033 Chalupa Pedido Compra 0.5h
+	- Formación Impartida Carolina Chalupa clonar repositorios intermedia y rdlr, equipos teams, DDT, DSN, ToDo Pluggin Visual 2.25h
+- 10/03/2026
+	- Descanso 0.25
+	- 
+ CICD
 
 
 
